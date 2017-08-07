@@ -8,7 +8,7 @@
     "servoThickDimentionThickness": 23.6,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 28.1,
-    "shaftToShortSideFlandgeEdge": 12.2,
+    
     "servoThinDimentionThickness": 12.3
   },
   "standard": {
@@ -20,7 +20,7 @@
     "servoThickDimentionThickness": 41.0,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 38.3,
-    "shaftToShortSideFlandgeEdge": 18.3,
+    
     "servoThinDimentionThickness": 19.5,
     "numberOfHolesPerFlange":2,
     "holeDiameter":3.8,
@@ -37,7 +37,7 @@
     "servoThickDimentionThickness": 40.5,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 41.8,
-    "shaftToShortSideFlandgeEdge": 18.0,
+    
     "servoThinDimentionThickness": 20.3,
     "numberOfHolesPerFlange":2,
     "holeDiameter":3.8,
@@ -54,7 +54,7 @@
     "servoThickDimentionThickness": 40.5,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 37.8,
-    "shaftToShortSideFlandgeEdge": 13.95,
+    
     "servoThinDimentionThickness": 20.45,
     "numberOfHolesPerFlange":2,
     "holeDiameter":4.5,
@@ -71,7 +71,7 @@
     "servoThickDimentionThickness": 23.6,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 28.1,
-    "shaftToShortSideFlandgeEdge": 12.2,
+    
     "servoThinDimentionThickness": 12.3
   },
   "DHV56mg_sub_Micro": {
@@ -83,7 +83,7 @@
     "servoThickDimentionThickness": 19.7,
     "flangeThickness": 1.38,
     "servoShaftSideHeight": 24.5,
-    "shaftToShortSideFlandgeEdge": 8.45,
+    
     "servoThinDimentionThickness": 8.7
   },
   "meta": {
@@ -100,7 +100,7 @@
     "servoThickDimentionThickness": 22.6,
     "flangeThickness": 2.4,
     "servoShaftSideHeight": 26.7,
-    "shaftToShortSideFlandgeEdge": 11.8,
+    
     "servoThinDimentionThickness": 12.1
   },
   "towerProMG91": {
@@ -112,7 +112,7 @@
     "servoThickDimentionThickness": 22.8,
     "flangeThickness": 2.0,
     "servoShaftSideHeight": 31.5,
-    "shaftToShortSideFlandgeEdge": 10.8,
+    
     "servoThinDimentionThickness": 11.8
   },
   "tproTG90": {
@@ -124,7 +124,7 @@
     "servoThickDimentionThickness": 22.6,
     "flangeThickness": 2.4,
     "servoShaftSideHeight": 35.0,
-    "shaftToShortSideFlandgeEdge": 11.8,
+    
     "servoThinDimentionThickness": 12.1
   },
   "es08maII": {
@@ -136,7 +136,7 @@
     "servoThickDimentionThickness": 23.6,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 28.1,
-    "shaftToShortSideFlandgeEdge": 12.2,
+    
     "servoThinDimentionThickness": 12.3
   }
 }

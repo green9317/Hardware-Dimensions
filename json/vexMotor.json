@@ -1,0 +1,20 @@
+{
+   "393": {
+    "sizeX": 1.0,
+    "sizeY": 5.0,
+    "sizeZ": 5.0,
+    "axleInset": 5.0,
+    "postInset": 5.0
+  },
+   "269": {
+    "sizeX": 1.0,
+    "sizeY": 5.0,
+    "sizeZ": 5.0,
+    "axleInset": 5.0,
+    "postInset": 5.0
+  },
+  "meta": {
+      "scriptGit": "https://github.com/Octogonapus/VexVitaminScripts.git",
+      "scriptFile": "scripts/Motor.groovy"
+  }
+}

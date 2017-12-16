@@ -1,17 +1,21 @@
 {
    "393": {
-    "sizeX": 1.0,
-    "sizeY": 5.0,
-    "sizeZ": 5.0,
-    "axleInset": 5.0,
-    "postInset": 5.0
+    "sizeX": 25.3,
+    "sizeY": 50.2,
+    "sizeZ": 41,
+    "axleInset": 6.5,
+    "postInset": 8.3,
+    "postDiamBottom": 8.9,
+    "postDiamTop": 8.3
   },
    "269": {
-    "sizeX": 1.0,
-    "sizeY": 5.0,
-    "sizeZ": 5.0,
-    "axleInset": 5.0,
-    "postInset": 5.0
+    "sizeX": 20.0,
+    "sizeY": 40.0,
+    "sizeZ": 35.5,
+    "axleInset": 4.5,
+    "postInset": 1.0,
+    "postDiamBottom": 7.8,
+    "postDiamTop": 7.2
   },
   "meta": {
       "scriptGit": "https://github.com/Octogonapus/VexVitaminScripts.git",

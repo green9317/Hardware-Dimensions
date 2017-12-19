@@ -18,7 +18,7 @@
     "postDiamTop": 7.2
   },
   "meta": {
-      "scriptGit": "https://github.com/Octogonapus/VexVitaminScripts.git",
+      "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scriptFile": "scripts/Motor.groovy"
   }
 }

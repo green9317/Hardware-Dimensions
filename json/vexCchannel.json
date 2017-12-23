@@ -49,11 +49,6 @@
     "holeCountLength": 15.0,
     "thickness": 1.6002
   },
-  "Aluminum 2x15": {
-    "holeCountWidth": 2.0,
-    "holeCountLength": 15.0,
-    "thickness": 1.6002
-  },
   "Aluminum 2x35": {
     "holeCountWidth": 2.0,
     "holeCountLength": 35.0,

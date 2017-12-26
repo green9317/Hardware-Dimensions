@@ -1,11 +1,63 @@
 {
-   "1x5": {
-    "x": 1.0,
-    "y": 5.0
+   "Steel 1x5": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 5.0,
+    "thickness": 1.1684
   },
-   "5x10": {
-    "x": 5.0,
-    "y": 10.0
+   "Steel 1x10": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 10.0,
+    "thickness": 1.1684
+  },
+   "Steel 1x15": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 15.0,
+    "thickness": 1.1684
+  },
+   "Steel 5x5": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 5.0,
+    "thickness": 1.1684
+  },
+   "Steel 5x10": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 10.0,
+    "thickness": 1.1684
+  },
+   "Steel 5x15": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 15.0,
+    "thickness": 1.1684
+  },
+   "Aluminum 1x5": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 5.0,
+    "thickness": 1.6002
+  },
+   "Aluminum 1x10": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 10.0,
+    "thickness": 1.6002
+  },
+   "Aluminum 1x15": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 15.0,
+    "thickness": 1.6002
+  },
+   "Aluminum 5x5": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 5.0,
+    "thickness": 1.6002
+  },
+   "Aluminum 5x10": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 10.0,
+    "thickness": 1.6002
+  },
+   "Aluminum 5x15": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 15.0,
+    "thickness": 1.6002
   },
   "meta": {
       "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",

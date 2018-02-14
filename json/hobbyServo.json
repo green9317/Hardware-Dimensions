@@ -8,59 +8,39 @@
     "servoThickDimentionThickness": 23.6,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 28.1,
-    
     "servoThinDimentionThickness": 12.3
   },
   "standard": {
     "outputShaftDiameter": 5.6,
     "shaftToShortSideDistance": 10.7,
     "bottomOfFlangeToTopOfBody": 11.2,
-    "flangeLongDimention": 56.5,
+    "holeEdgetoHoleEdgeShortDistance": 5.14,
     "tipOfShaftToBottomOfFlange": 18.5,
     "servoThickDimentionThickness": 41.0,
+    "holeDiameter": 3.8,
+    "numberOfHolesPerFlange": 2.0,
+    "holeOrentation": "down",
+    "holeEdgetoHoleEdgeLongDistance": 43.44,
+    "flangeLongDimention": 56.5,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 38.3,
-    
-    "servoThinDimentionThickness": 19.5,
-    "numberOfHolesPerFlange":2,
-    "holeDiameter":3.8,
-    "holeEdgetoHoleEdgeShortDistance":5.14,
-    "holeEdgetoHoleEdgeLongDistance":43.44,
-    "holeOrentation":"down"
+    "servoThinDimentionThickness": 19.5
   },
   "hv6214mg": {
     "outputShaftDiameter": 5.9,
-    "shaftToShortSideDistance": 10,
+    "shaftToShortSideDistance": 10.0,
     "bottomOfFlangeToTopOfBody": 12.4,
-    "flangeLongDimention": 56.5,
+    "holeEdgetoHoleEdgeShortDistance": 5.14,
     "tipOfShaftToBottomOfFlange": 17.04,
     "servoThickDimentionThickness": 40.5,
+    "holeDiameter": 3.8,
+    "numberOfHolesPerFlange": 2.0,
+    "holeOrentation": "up",
+    "holeEdgetoHoleEdgeLongDistance": 43.44,
+    "flangeLongDimention": 56.5,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 41.8,
-    
-    "servoThinDimentionThickness": 20.3,
-    "numberOfHolesPerFlange":2,
-    "holeDiameter":3.8,
-    "holeEdgetoHoleEdgeShortDistance":5.14,
-    "holeEdgetoHoleEdgeLongDistance":43.44,
-    "holeOrentation":"up"
-  },  
-  "hv5932mg": {
-    "outputShaftDiameter": 5.9,
-    "shaftToShortSideDistance": 10.47,
-    "bottomOfFlangeToTopOfBody": 10.0,
-    "flangeLongDimention": 54.5,
-    "tipOfShaftToBottomOfFlange": 14.24,
-    "servoThickDimentionThickness": 40.5,
-    "flangeThickness": 3.0,
-    "servoShaftSideHeight": 37.8,
-    
-    "servoThinDimentionThickness": 20.45,
-    "numberOfHolesPerFlange":2,
-    "holeDiameter":4.5,
-    "holeEdgetoHoleEdgeShortDistance":5.31,
-    "holeEdgetoHoleEdgeLongDistance":43.44,
-    "holeOrentation":"up"
+    "servoThinDimentionThickness": 20.3
   },
   "Dynam": {
     "outputShaftDiameter": 4.4,
@@ -71,7 +51,6 @@
     "servoThickDimentionThickness": 23.6,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 28.1,
-    
     "servoThinDimentionThickness": 12.3
   },
   "DHV56mg_sub_Micro": {
@@ -83,7 +62,6 @@
     "servoThickDimentionThickness": 19.7,
     "flangeThickness": 1.38,
     "servoShaftSideHeight": 24.5,
-    
     "servoThinDimentionThickness": 8.7
   },
   "meta": {
@@ -100,7 +78,6 @@
     "servoThickDimentionThickness": 22.6,
     "flangeThickness": 2.4,
     "servoShaftSideHeight": 26.7,
-    
     "servoThinDimentionThickness": 12.1
   },
   "towerProMG91": {
@@ -112,7 +89,6 @@
     "servoThickDimentionThickness": 22.8,
     "flangeThickness": 2.0,
     "servoShaftSideHeight": 31.5,
-    
     "servoThinDimentionThickness": 11.8
   },
   "tproTG90": {
@@ -124,8 +100,23 @@
     "servoThickDimentionThickness": 22.6,
     "flangeThickness": 2.4,
     "servoShaftSideHeight": 35.0,
-    
     "servoThinDimentionThickness": 12.1
+  },
+  "hv5932mg": {
+    "outputShaftDiameter": 5.9,
+    "shaftToShortSideDistance": 10.47,
+    "bottomOfFlangeToTopOfBody": 10.0,
+    "holeEdgetoHoleEdgeShortDistance": 5.31,
+    "tipOfShaftToBottomOfFlange": 14.24,
+    "servoThickDimentionThickness": 40.5,
+    "holeDiameter": 4.5,
+    "numberOfHolesPerFlange": 2.0,
+    "holeOrentation": "up",
+    "holeEdgetoHoleEdgeLongDistance": 43.44,
+    "flangeLongDimention": 54.5,
+    "flangeThickness": 3.0,
+    "servoShaftSideHeight": 37.8,
+    "servoThinDimentionThickness": 20.45
   },
   "es08maII": {
     "outputShaftDiameter": 4.4,
@@ -136,7 +127,6 @@
     "servoThickDimentionThickness": 23.6,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 28.1,
-    
     "servoThinDimentionThickness": 12.3
   }
 }

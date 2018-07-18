@@ -1,0 +1,23 @@
+{  
+  "WPI-gb37y3530-50en": {
+    "boltHolePatternDiameter": 31,
+    "boltHolePatternAngleIncrement": 60,
+    "boltHolePatternAngleOffset": 60,
+    "shaftCenterOffset":7,
+    "shaftCollarDiameter":12,
+    "shaftCollarHeight":5.8
+    "motorBodyRadius": ,37.0
+    "bodyLength": ,75.0
+    "shaftDiameter": 6.0,
+    "shaftDSectionDiameter": 5.34,
+    "totalShaftLength": 21,
+    "dShaftSection": 12,
+    "boltSize": "M3",
+    "boltType": "capScrew",
+    "source":"http://image.dfrobot.com/image/data/FIT0185/FIT0185_Dimension.PNG"
+   },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/RoundMotorVitamin.git",
+    "scriptFile": "roundMotor.groovy"
+  }
+}

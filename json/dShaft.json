@@ -1,0 +1,12 @@
+{  
+  "WPI-gb37y3530-50en": {
+    "shaftDiameter": 6.0,
+    "shaftDSectionDiameter": 5.34,
+    "length": 12,
+    "source":"http://image.dfrobot.com/image/data/FIT0185/FIT0185_Dimension.PNG"
+   },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/RoundMotorVitamin.git",
+    "scriptFile": "roundMotor.groovy"
+  }
+}

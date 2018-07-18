@@ -8,16 +8,15 @@
     "shaftCollarHeight":5.8,
     "motorBodyRadius": 37.0,
     "bodyLength": 75.0,
-    "shaftDiameter": 6.0,
-    "shaftDSectionDiameter": 5.34,
     "totalShaftLength": 21,
-    "dShaftSection": 12,
+    "dshaft":"WPI-gb37y3530-50en",
     "boltSize": "M3",
     "boltType": "capScrew",
     "source":"http://image.dfrobot.com/image/data/FIT0185/FIT0185_Dimension.PNG"
    },
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/RoundMotorVitamin.git",
+    "actuator": "true",
     "scriptFile": "roundMotor.groovy"
   }
 }

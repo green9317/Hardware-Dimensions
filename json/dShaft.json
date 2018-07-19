@@ -7,7 +7,7 @@
    },
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/RoundMotorVitamin.git",
-    "scriptFile": "roundMotor.groovy",
+    "scriptFile": "dShaft.groovy",
     "shaft": "true"
   }
 }

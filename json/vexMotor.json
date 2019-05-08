@@ -1,5 +1,8 @@
 {
    "393": {
+    "MaxTorqueNewtonmeters":1.637,
+    "MaxFreeSpeedRadPerSec":10.471,
+    "price":14.99,
     "sizeX": 25.3,
     "sizeY": 50.2,
     "sizeZ": 41,
@@ -9,6 +12,9 @@
     "postDiamTop": 8.3
   },
    "269": {
+    "MaxTorqueNewtonmeters":1.53,
+    "MaxFreeSpeedRadPerSec":10.471,
+    "price":15.00,
     "sizeX": 20.0,
     "sizeY": 40.0,
     "sizeZ": 35.5,

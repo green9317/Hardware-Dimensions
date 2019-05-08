@@ -3,6 +3,7 @@
     "MaxTorqueNewtonmeters":1.4123,
     "MaxFreeSpeedRadPerSec":20.943,
     "price":38.95,
+    "massKg":0.203,
     "boltHolePatternDiameter": 31,
     "boltHolePatternAngleIncrement": 60,
     "boltHolePatternAngleOffset": 60,

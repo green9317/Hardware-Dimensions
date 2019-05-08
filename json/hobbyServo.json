@@ -1,6 +1,6 @@
 {
   "standardMicro": {
-        "MaxTorqueNewtonmeters":0,
+    "MaxTorqueNewtonmeters":0,
     "MaxFreeSpeedRadPerSec":0,
     "price":0,
     "massKg":0,
@@ -15,11 +15,10 @@
     "servoThinDimentionThickness": 12.3
   },
   "standard": {
-    "MaxTorqueNewtonmeters":0,
-    "MaxFreeSpeedRadPerSec":0,
-    "price":0,
-    
-    "massKg":0,
+    "MaxTorqueNewtonmeters":1.4317709,
+    "MaxFreeSpeedRadPerSec":6.54,
+    "price":19.99,
+    "massKg":0.0694,
     "outputShaftDiameter": 5.6,
     "shaftToShortSideDistance": 10.7,
     "bottomOfFlangeToTopOfBody": 11.2,
@@ -36,10 +35,10 @@
     "holeOrentation":"down"
   },
   "hv6214mg": {
-    "MaxTorqueNewtonmeters":0,
-    "MaxFreeSpeedRadPerSec":0,
-    "price":0,
-    "massKg":0,
+    "MaxTorqueNewtonmeters":1.4317709,
+    "MaxFreeSpeedRadPerSec":6.54,
+    "price":19.99,
+    "massKg":0.0694,
     "outputShaftDiameter": 5.9,
     "shaftToShortSideDistance": 10,
     "bottomOfFlangeToTopOfBody": 12.4,
@@ -57,10 +56,10 @@
     "holeOrentation":"up"
   },  
   "hv5932mg": {
-        "MaxTorqueNewtonmeters":0,
-    "MaxFreeSpeedRadPerSec":0,
-    "price":0,
-    "massKg":0,
+     "MaxTorqueNewtonmeters":3.16754795,
+    "MaxFreeSpeedRadPerSec":10.5,
+    "price":29.99,
+    "massKg":0.059,
     "outputShaftDiameter": 5.9,
     "shaftToShortSideDistance": 10.47,
     "bottomOfFlangeToTopOfBody": 10.0,

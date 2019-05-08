@@ -1,9 +1,9 @@
 {
   "standardMicro": {
-    "MaxTorqueNewtonmeters":0,
-    "MaxFreeSpeedRadPerSec":0,
-    "price":0,
-    "massKg":0,
+    "MaxTorqueNewtonmeters":0.343,
+    "MaxFreeSpeedRadPerSec":9.52,
+    "price":9.49,
+    "massKg":0.0138,
     "outputShaftDiameter": 4.4,
     "shaftToShortSideDistance": 6.4,
     "bottomOfFlangeToTopOfBody": 11.8,
@@ -130,10 +130,10 @@
     "servoThinDimentionThickness": 12.1
   },
   "towerProMG91": {
-        "MaxTorqueNewtonmeters":0,
-    "MaxFreeSpeedRadPerSec":0,
-    "price":0,
-    "massKg":0,
+    "MaxTorqueNewtonmeters":0.343,
+    "MaxFreeSpeedRadPerSec":9.52,
+    "price":9.49,
+    "massKg":0.0138,
     "outputShaftDiameter": 4.4,
     "shaftToShortSideDistance": 6.8,
     "bottomOfFlangeToTopOfBody": 9.4,

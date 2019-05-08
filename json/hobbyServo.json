@@ -1,5 +1,8 @@
 {
   "standardMicro": {
+        "MaxTorqueNewtonmeters":0,
+    "MaxFreeSpeedRadPerSec":0,
+    "price":0,
     "outputShaftDiameter": 4.4,
     "shaftToShortSideDistance": 6.4,
     "bottomOfFlangeToTopOfBody": 11.8,
@@ -8,10 +11,12 @@
     "servoThickDimentionThickness": 23.6,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 28.1,
-    
     "servoThinDimentionThickness": 12.3
   },
   "standard": {
+    "MaxTorqueNewtonmeters":0,
+    "MaxFreeSpeedRadPerSec":0,
+    "price":0,
     "outputShaftDiameter": 5.6,
     "shaftToShortSideDistance": 10.7,
     "bottomOfFlangeToTopOfBody": 11.2,
@@ -20,7 +25,6 @@
     "servoThickDimentionThickness": 41.0,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 38.3,
-    
     "servoThinDimentionThickness": 19.5,
     "numberOfHolesPerFlange":2,
     "holeDiameter":3.8,
@@ -29,6 +33,9 @@
     "holeOrentation":"down"
   },
   "hv6214mg": {
+    "MaxTorqueNewtonmeters":0,
+    "MaxFreeSpeedRadPerSec":0,
+    "price":0,
     "outputShaftDiameter": 5.9,
     "shaftToShortSideDistance": 10,
     "bottomOfFlangeToTopOfBody": 12.4,
@@ -46,6 +53,9 @@
     "holeOrentation":"up"
   },  
   "hv5932mg": {
+        "MaxTorqueNewtonmeters":0,
+    "MaxFreeSpeedRadPerSec":0,
+    "price":0,
     "outputShaftDiameter": 5.9,
     "shaftToShortSideDistance": 10.47,
     "bottomOfFlangeToTopOfBody": 10.0,
@@ -63,6 +73,9 @@
     "holeOrentation":"up"
   },
   "Dynam": {
+        "MaxTorqueNewtonmeters":0,
+    "MaxFreeSpeedRadPerSec":0,
+    "price":0,
     "outputShaftDiameter": 4.4,
     "shaftToShortSideDistance": 6.4,
     "bottomOfFlangeToTopOfBody": 11.8,
@@ -75,6 +88,9 @@
     "servoThinDimentionThickness": 12.3
   },
   "DHV56mg_sub_Micro": {
+        "MaxTorqueNewtonmeters":0,
+    "MaxFreeSpeedRadPerSec":0,
+    "price":0,
     "outputShaftDiameter": 3.8,
     "shaftToShortSideDistance": 3.63,
     "bottomOfFlangeToTopOfBody": 7.65,
@@ -92,6 +108,9 @@
     "scriptFile": "servo.groovy"
   },
   "tproSG90": {
+        "MaxTorqueNewtonmeters":0,
+    "MaxFreeSpeedRadPerSec":0,
+    "price":0,
     "outputShaftDiameter": 4.9,
     "shaftToShortSideDistance": 5.9,
     "bottomOfFlangeToTopOfBody": 11.3,
@@ -104,6 +123,9 @@
     "servoThinDimentionThickness": 12.1
   },
   "towerProMG91": {
+        "MaxTorqueNewtonmeters":0,
+    "MaxFreeSpeedRadPerSec":0,
+    "price":0,
     "outputShaftDiameter": 4.4,
     "shaftToShortSideDistance": 6.8,
     "bottomOfFlangeToTopOfBody": 9.4,
@@ -116,6 +138,9 @@
     "servoThinDimentionThickness": 11.8
   },
   "tproTG90": {
+        "MaxTorqueNewtonmeters":0,
+    "MaxFreeSpeedRadPerSec":0,
+    "price":0,
     "outputShaftDiameter": 4.9,
     "shaftToShortSideDistance": 5.9,
     "bottomOfFlangeToTopOfBody": 11.3,
@@ -128,6 +153,9 @@
     "servoThinDimentionThickness": 12.1
   },
   "es08maII": {
+        "MaxTorqueNewtonmeters":0,
+    "MaxFreeSpeedRadPerSec":0,
+    "price":0,
     "outputShaftDiameter": 4.4,
     "shaftToShortSideDistance": 6.4,
     "bottomOfFlangeToTopOfBody": 11.8,

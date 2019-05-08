@@ -76,27 +76,11 @@
     "holeEdgetoHoleEdgeLongDistance":43.44,
     "holeOrentation":"up"
   },
-  "Dynam": {
-        "MaxTorqueNewtonmeters":0,
-    "MaxFreeSpeedRadPerSec":0,
-    "price":0,
-    "massKg":0,
-    "outputShaftDiameter": 4.4,
-    "shaftToShortSideDistance": 6.4,
-    "bottomOfFlangeToTopOfBody": 11.8,
-    "flangeLongDimention": 35.0,
-    "tipOfShaftToBottomOfFlange": 17.0,
-    "servoThickDimentionThickness": 23.6,
-    "flangeThickness": 3.0,
-    "servoShaftSideHeight": 28.1,
-    
-    "servoThinDimentionThickness": 12.3
-  },
   "DHV56mg_sub_Micro": {
-        "MaxTorqueNewtonmeters":0,
-    "MaxFreeSpeedRadPerSec":0,
-    "price":0,
-    "massKg":0,
+        "MaxTorqueNewtonmeters":0.117,
+    "MaxFreeSpeedRadPerSec":10.5,
+    "price":7.1,
+    "massKg":0.0056,
     "outputShaftDiameter": 3.8,
     "shaftToShortSideDistance": 3.63,
     "bottomOfFlangeToTopOfBody": 7.65,
@@ -114,10 +98,10 @@
     "scriptFile": "servo.groovy"
   },
   "tproSG90": {
-        "MaxTorqueNewtonmeters":0,
-    "MaxFreeSpeedRadPerSec":0,
-    "price":0,
-    "massKg":0,
+        "MaxTorqueNewtonmeters":0.245,
+    "MaxFreeSpeedRadPerSec":10.5,
+    "price":1.49,
+    "massKg":0.014,
     "outputShaftDiameter": 4.9,
     "shaftToShortSideDistance": 5.9,
     "bottomOfFlangeToTopOfBody": 11.3,
@@ -146,10 +130,10 @@
     "servoThinDimentionThickness": 11.8
   },
   "tproTG90": {
-        "MaxTorqueNewtonmeters":0,
-    "MaxFreeSpeedRadPerSec":0,
-    "price":0,
-    "massKg":0,
+    "MaxTorqueNewtonmeters":0.245,
+    "MaxFreeSpeedRadPerSec":10.5,
+    "price":1.49,
+    "massKg":0.014,
     "outputShaftDiameter": 4.9,
     "shaftToShortSideDistance": 5.9,
     "bottomOfFlangeToTopOfBody": 11.3,
@@ -160,21 +144,5 @@
     "servoShaftSideHeight": 35.0,
     
     "servoThinDimentionThickness": 12.1
-  },
-  "es08maII": {
-        "MaxTorqueNewtonmeters":0,
-    "MaxFreeSpeedRadPerSec":0,
-    "price":0,
-    "massKg":0,
-    "outputShaftDiameter": 4.4,
-    "shaftToShortSideDistance": 6.4,
-    "bottomOfFlangeToTopOfBody": 11.8,
-    "flangeLongDimention": 35.0,
-    "tipOfShaftToBottomOfFlange": 17.0,
-    "servoThickDimentionThickness": 23.6,
-    "flangeThickness": 3.0,
-    "servoShaftSideHeight": 28.1,
-    
-    "servoThinDimentionThickness": 12.3
   }
 }

@@ -1,5 +1,8 @@
 {
   "GenericNEMA11": {
+    "MaxTorqueNewtonmeters":0.0586,
+    "MaxFreeSpeedRadPerSec":46.5,
+    "price":15.95,
     "mountScrew": "M3",
     "flangeHeight": 2.0,
     "flangeDiameter": 22.0,
@@ -7,7 +10,8 @@
     "width": 35.2,
     "mountSpacing": 26.0,
     "shaftLength": 21.0,
-    "shaftDiameter": 5.0
+    "shaftDiameter": 5.0,
+    "source":"https://www.pololu.com/product/1205"
   },
   "meta": {
     "scriptGit": "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git",
@@ -15,6 +19,9 @@
     "scriptFile": "nemaStepper.groovy"
   },
   "GenericNEMA14": {
+    "MaxTorqueNewtonmeters":0.098,
+    "MaxFreeSpeedRadPerSec":139.626,
+    "price":12.95,
     "mountScrew": "M3",
     "flangeHeight": 2.0,
     "flangeDiameter": 22.0,
@@ -25,6 +32,9 @@
     "shaftDiameter": 5.0
   },
   "GenericNEMA17": {
+     "MaxTorqueNewtonmeters":0.3108,
+    "MaxFreeSpeedRadPerSec":87.2665,
+    "price":19.95,
     "mountScrew": "M3",
     "flangeHeight": 2.0,
     "flangeDiameter": 22.0,
@@ -34,17 +44,10 @@
     "shaftLength": 23.0,
     "shaftDiameter": 5.0
   },
-  "GenericNEMA8": {
-    "mountScrew": "M2",
-    "flangeHeight": 1.5,
-    "flangeDiameter": 15.0,
-    "length": 30.0,
-    "width": 20.3,
-    "mountSpacing": 16.0,
-    "shaftLength": 14.0,
-    "shaftDiameter": 4.0
-  },
   "Pololu35x26": {
+    "MaxTorqueNewtonmeters":0.098,
+    "MaxFreeSpeedRadPerSec":139.626,
+    "price":12.95,
     "mountScrew": "M3",
     "flangeHeight": 2.0,
     "flangeDiameter": 22.0,

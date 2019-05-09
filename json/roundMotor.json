@@ -17,6 +17,8 @@
     "boltSize": "M3",
     "boltType": "capScrew",
     "source":"http://image.dfrobot.com/image/data/FIT0185/FIT0185_Dimension.PNG"
+    "shaftType":"dShaft",
+    "shaftSize":"WPI-gb37y3530-50en"
    },
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/RoundMotorVitamin.git",

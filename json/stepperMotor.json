@@ -13,6 +13,8 @@
     "shaftLength": 21.0,
     "shaftDiameter": 5.0,
     "source":"https://www.pololu.com/product/1205"
+        "shaftType":"dShaft",
+    "shaftSize":"WPI-gb37y3530-50en"
   },
   "meta": {
     "scriptGit": "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git",
@@ -32,6 +34,8 @@
     "mountSpacing": 26.0,
     "shaftLength": 21.0,
     "shaftDiameter": 5.0
+        "shaftType":"dShaft",
+    "shaftSize":"WPI-gb37y3530-50en"
   },
   "GenericNEMA17": {
      "MaxTorqueNewtonmeters":0.3108,
@@ -46,6 +50,8 @@
     "mountSpacing": 31.0,
     "shaftLength": 23.0,
     "shaftDiameter": 5.0
+        "shaftType":"dShaft",
+    "shaftSize":"WPI-gb37y3530-50en"
   },
   "Pololu35x26": {
     "MaxTorqueNewtonmeters":0.098,
@@ -60,5 +66,7 @@
     "mountSpacing": 26.0,
     "shaftLength": 21.0,
     "shaftDiameter": 5.0
+        "shaftType":"dShaft",
+    "shaftSize":"WPI-gb37y3530-50en"
   }
 }

@@ -12,7 +12,9 @@
     "servoThickDimentionThickness": 23.6,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 28.1,
-    "servoThinDimentionThickness": 12.3
+    "servoThinDimentionThickness": 12.3,
+    "shaftType":"hobbyServoHorn",
+    "shaftSize":"standardMicro1"
   },
   "standard": {
     "MaxTorqueNewtonmeters":1.4317709,
@@ -33,6 +35,9 @@
     "holeEdgetoHoleEdgeShortDistance":5.14,
     "holeEdgetoHoleEdgeLongDistance":43.44,
     "holeOrentation":"down"
+    ,
+    "shaftType":"hobbyServoHorn",
+    "shaftSize":"standard4"
   },
   "hv6214mg": {
     "MaxTorqueNewtonmeters":1.4317709,
@@ -53,7 +58,9 @@
     "holeDiameter":3.8,
     "holeEdgetoHoleEdgeShortDistance":5.14,
     "holeEdgetoHoleEdgeLongDistance":43.44,
-    "holeOrentation":"up"
+    "holeOrentation":"up",
+    "shaftType":"hobbyServoHorn",
+    "shaftSize":"hv6214mg_6"
   },  
   "hv5932mg": {
      "MaxTorqueNewtonmeters":3.16754795,
@@ -74,7 +81,9 @@
     "holeDiameter":4.5,
     "holeEdgetoHoleEdgeShortDistance":5.31,
     "holeEdgetoHoleEdgeLongDistance":43.44,
-    "holeOrentation":"up"
+    "holeOrentation":"up",
+    "shaftType":"hobbyServoHorn",
+    "shaftSize":"hv6214mg_6"
   },
   "DHV56mg_sub_Micro": {
         "MaxTorqueNewtonmeters":0.117,
@@ -90,7 +99,9 @@
     "flangeThickness": 1.38,
     "servoShaftSideHeight": 24.5,
     
-    "servoThinDimentionThickness": 8.7
+    "servoThinDimentionThickness": 8.7,
+    "shaftType":"hobbyServoHorn",
+    "shaftSize":"DHV56mg_sub_Micro_1"
   },
   "meta": {
     "scriptGit": "https://gist.github.com/3f9fef17b23acfadf3f7.git",
@@ -111,7 +122,9 @@
     "flangeThickness": 2.4,
     "servoShaftSideHeight": 26.7,
     
-    "servoThinDimentionThickness": 12.1
+    "servoThinDimentionThickness": 12.1,
+    "shaftType":"hobbyServoHorn",
+    "shaftSize":"tproSG90_1"
   },
   "towerProMG91": {
     "MaxTorqueNewtonmeters":0.343,
@@ -127,7 +140,9 @@
     "flangeThickness": 2.0,
     "servoShaftSideHeight": 31.5,
     
-    "servoThinDimentionThickness": 11.8
+    "servoThinDimentionThickness": 11.8,
+    "shaftType":"hobbyServoHorn",
+    "shaftSize":"tproSG90_1"
   },
   "tproTG90": {
     "MaxTorqueNewtonmeters":0.245,
@@ -143,6 +158,8 @@
     "flangeThickness": 2.4,
     "servoShaftSideHeight": 35.0,
     
-    "servoThinDimentionThickness": 12.1
+    "servoThinDimentionThickness": 12.1,
+    "shaftType":"hobbyServoHorn",
+    "shaftSize":"tproSG90_1"
   }
 }

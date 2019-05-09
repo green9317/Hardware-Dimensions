@@ -10,7 +10,9 @@
     "axleInset": 7.0,
     "postInset": 8.4,
     "postDiamBottom": 8.9,
-    "postDiamTop": 8.3
+    "postDiamTop": 8.3,
+        "shaftType":"vexShaft",
+    "shaftSize":"6-inch"
   },
    "269": {
     "MaxTorqueNewtonmeters":1.53,
@@ -23,7 +25,9 @@
     "axleInset": 4.5,
     "postInset": 1.0,
     "postDiamBottom": 7.8,
-    "postDiamTop": 7.2
+    "postDiamTop": 7.2,
+        "shaftType":"vexShaft",
+    "shaftSize":"6-inch"
   },
   "meta": {
       "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",

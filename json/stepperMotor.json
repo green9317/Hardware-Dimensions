@@ -12,7 +12,7 @@
     "mountSpacing": 26.0,
     "shaftLength": 21.0,
     "shaftDiameter": 5.0,
-    "source":"https://www.pololu.com/product/1205"
+    "source":"https://www.pololu.com/product/1205",
         "shaftType":"dShaft",
     "shaftSize":"WPI-gb37y3530-50en"
   },
@@ -33,7 +33,7 @@
     "width": 35.2,
     "mountSpacing": 26.0,
     "shaftLength": 21.0,
-    "shaftDiameter": 5.0
+    "shaftDiameter": 5.0,
         "shaftType":"dShaft",
     "shaftSize":"WPI-gb37y3530-50en"
   },
@@ -49,7 +49,7 @@
     "width": 42.3,
     "mountSpacing": 31.0,
     "shaftLength": 23.0,
-    "shaftDiameter": 5.0
+    "shaftDiameter": 5.0,
         "shaftType":"dShaft",
     "shaftSize":"WPI-gb37y3530-50en"
   },
@@ -65,7 +65,7 @@
     "width": 35.2,
     "mountSpacing": 26.0,
     "shaftLength": 21.0,
-    "shaftDiameter": 5.0
+    "shaftDiameter": 5.0,
         "shaftType":"dShaft",
     "shaftSize":"WPI-gb37y3530-50en"
   }

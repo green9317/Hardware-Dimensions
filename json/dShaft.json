@@ -5,6 +5,12 @@
     "length": 12,
     "source":"http://image.dfrobot.com/image/data/FIT0185/FIT0185_Dimension.PNG"
    },
+   "5mm": {
+    "shaftDiameter": 5.0,
+    "shaftDSectionDiameter": 4.34,
+    "length": 24.1,
+    "source":"https://cdn-shop.adafruit.com/product-files/324/C140-A+datasheet.jpg"
+   },
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/RoundMotorVitamin.git",
     "scriptFile": "dShaft.groovy",

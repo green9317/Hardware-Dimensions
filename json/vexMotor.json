@@ -12,7 +12,7 @@
     "postDiamBottom": 8.9,
     "postDiamTop": 8.3,
         "shaftType":"vexShaft",
-    "shaftSize":"6-inch"
+    "shaftSize":"2-inch"
   },
    "269": {
     "MaxTorqueNewtonmeters":1.53,
@@ -27,7 +27,7 @@
     "postDiamBottom": 7.8,
     "postDiamTop": 7.2,
         "shaftType":"vexShaft",
-    "shaftSize":"6-inch"
+    "shaftSize":"2-inch"
   },
   "meta": {
       "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",

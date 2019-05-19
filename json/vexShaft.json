@@ -2,6 +2,9 @@
   "6-inch": {
     "length": 152.399
   },
+  "2-inch": {
+    "length": 50.8
+  },
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
     "scriptFile": "scripts/vexShaft.groovy",

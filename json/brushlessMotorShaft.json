@@ -6,7 +6,7 @@
     "massCentroidX": 0.0,
     "source": "https://www.aliexpress.com/item/32697306634.html",
     "massCentroidZ": 0.0,
-    "boltPatternDiameterLong": "12.0",
+    "boltPatternDiameterLong": 12.0,
     "massKg": 0.001,
     "numberOfBolts": 4.0
   },

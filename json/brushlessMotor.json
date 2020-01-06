@@ -1,8 +1,8 @@
 {
   "TL2955": {
-    "diameter": "44.5",
+    "diameter": 44.5,
     "boltSize": "M3",
-    "height": "22"
+    "height": 22.0
   },
   "meta": {
     "actuator": "true",

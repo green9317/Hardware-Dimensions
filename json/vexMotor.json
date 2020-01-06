@@ -1,37 +1,37 @@
 {
-   "393": {
-    "MaxTorqueNewtonmeters":1.637,
-    "MaxFreeSpeedRadPerSec":10.471,
-    "price":14.99,
-    "massKg":0.0945,
-    "sizeX": 25.3,
-    "sizeY": 50.2,
-    "sizeZ": 41,
-    "axleInset": 7.0,
-    "postInset": 8.4,
-    "postDiamBottom": 8.9,
-    "postDiamTop": 8.3,
-        "shaftType":"vexShaft",
-    "shaftSize":"2-inch"
-  },
-   "269": {
-    "MaxTorqueNewtonmeters":1.53,
-    "MaxFreeSpeedRadPerSec":10.471,
-    "price":15.00,
-    "massKg":0.0430,
-    "sizeX": 20.0,
-    "sizeY": 40.0,
-    "sizeZ": 35.5,
+  "269": {
+    "MaxTorqueNewtonmeters": 1.53,
     "axleInset": 4.5,
-    "postInset": 1.0,
-    "postDiamBottom": 7.8,
     "postDiamTop": 7.2,
-        "shaftType":"vexShaft",
-    "shaftSize":"2-inch"
+    "sizeX": 20.0,
+    "price": 15.0,
+    "postInset": 1.0,
+    "shaftSize": "2-inch",
+    "postDiamBottom": 7.8,
+    "shaftType": "vexShaft",
+    "MaxFreeSpeedRadPerSec": 10.471,
+    "massKg": 0.043,
+    "sizeY": 40.0,
+    "sizeZ": 35.5
   },
   "meta": {
-      "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
-     "actuator": "true",
-      "scriptFile": "scripts/Motor.groovy"
+    "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "actuator": "true",
+    "scriptFile": "scripts/Motor.groovy"
+  },
+  "393": {
+    "MaxTorqueNewtonmeters": 1.637,
+    "axleInset": 7.0,
+    "postDiamTop": 8.3,
+    "sizeX": 25.3,
+    "price": 14.99,
+    "postInset": 8.4,
+    "shaftSize": "2-inch",
+    "postDiamBottom": 8.9,
+    "shaftType": "vexShaft",
+    "MaxFreeSpeedRadPerSec": 10.471,
+    "massKg": 0.0945,
+    "sizeY": 50.2,
+    "sizeZ": 41.0
   }
 }

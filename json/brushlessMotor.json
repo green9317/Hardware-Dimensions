@@ -1,7 +1,13 @@
 {
   "TL2955": {
+    "MaxTorqueNewtonmeters": 0.0586,
     "diameter": 44.5,
+    "shaftSize": "5mm",
+    "shaftType": "dShaft",
     "boltSize": "M3",
+    "MaxFreeSpeedRadPerSec": 46.5,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.11,
     "height": 22.0
   },
   "meta": {

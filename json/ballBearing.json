@@ -20,13 +20,13 @@
     "massKg": 0.001
   },
   "Thrust_1andAHalfinch": {
-    "outerDiameter": "55.5625",
-    "width": "3.609",
+    "outerDiameter": 55.5625,
+    "width": 3.609,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massCentroidZ": 0.0,
-    "innerDiameter": "38.10",
+    "innerDiameter": 38.1,
     "massKg": 0.001
   },
   "694zz": {

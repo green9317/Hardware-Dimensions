@@ -8,6 +8,7 @@
     "massCentroidZ": 0.0,
     "boltPatternDiameterLong": 12.0,
     "massKg": 0.001,
+    "shaftMountBoltSize": "M3",
     "numberOfBolts": 4.0
   },
   "meta": {

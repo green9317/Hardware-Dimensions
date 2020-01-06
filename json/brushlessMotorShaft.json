@@ -1,1 +1,11 @@
-{}
+{
+  "TL2954": {
+    "boltPatternDiameter": "10",
+    "numberOfBolts": "4"
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git",
+    "scriptFile": "brushlessMotorShaft.groovy",
+    "shaft": "true"
+  }
+}

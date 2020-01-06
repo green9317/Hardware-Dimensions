@@ -1,1 +1,18 @@
-{}
+{
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/encoderCadGenerator.git",
+    "scriptFile": "encoder.groovy"
+  },
+  "AMT102_V": {
+    "bodyZ": 9.0,
+    "diameterOfWingsBoltHole": 46.025,
+    "centerToX_Edge": 15.34,
+    "wingsZ": 5.0,
+    "wingsY": 52.5,
+    "boltSize": "M2.5",
+    "wingsX": 9.0,
+    "bodyX": 43.38,
+    "shaftDiameter": 8.0,
+    "bodyY": 28.6
+  }
+}

@@ -9,6 +9,7 @@
     "source": "https://www.aliexpress.com/item/32697306634.html",
     "massCentroidZ": 11.0,
     "diameter": 44.5,
+    "price": "38.50",
     "shaftSize": "TL2955",
     "shaftType": "brushlessMotorShaft",
     "MaxFreeSpeedRadPerSec": 46.5,

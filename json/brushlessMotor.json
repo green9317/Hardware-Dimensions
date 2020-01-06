@@ -3,10 +3,13 @@
     "MaxTorqueNewtonmeters": 0.0586,
     "diameter": 44.5,
     "shaftSize": "5mm",
+    "massCentroidY": 0.0,
     "shaftType": "dShaft",
+    "massCentroidX": 0.0,
     "boltSize": "M3",
     "MaxFreeSpeedRadPerSec": 46.5,
     "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
     "massKg": 0.11,
     "height": 22.0
   },

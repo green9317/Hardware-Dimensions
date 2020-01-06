@@ -2,6 +2,10 @@
   "269": {
     "MaxTorqueNewtonmeters": 1.53,
     "axleInset": 4.5,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
     "postDiamTop": 7.2,
     "sizeX": 20.0,
     "price": 15.0,
@@ -22,6 +26,10 @@
   "393": {
     "MaxTorqueNewtonmeters": 1.637,
     "axleInset": 7.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
     "postDiamTop": 8.3,
     "sizeX": 25.3,
     "price": 14.99,

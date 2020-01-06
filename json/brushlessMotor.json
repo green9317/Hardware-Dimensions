@@ -1,15 +1,18 @@
 {
   "TL2955": {
     "MaxTorqueNewtonmeters": 0.0586,
-    "diameter": 44.5,
-    "shaftSize": "5mm",
+    "rotorSpacingShort": "10.0",
+    "statorBoltSpacing": "19",
     "massCentroidY": 0.0,
-    "shaftType": "dShaft",
     "massCentroidX": 0.0,
     "boltSize": "M3",
-    "MaxFreeSpeedRadPerSec": 46.5,
     "source": "https://www.aliexpress.com/item/32697306634.html",
     "massCentroidZ": 11.0,
+    "diameter": 44.5,
+    "shaftSize": "TL2955",
+    "shaftType": "brushlessMotorShaft",
+    "MaxFreeSpeedRadPerSec": 46.5,
+    "rotorSpacingLong": "12.0",
     "massKg": 0.11,
     "height": 22.0
   },
@@ -17,5 +20,6 @@
     "actuator": "true",
     "scriptGit": "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
     "scriptFile": "brushlessMotor.groovy"
-  }
+  },
+  "TL2955 ": {}
 }

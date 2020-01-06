@@ -9,7 +9,7 @@
     "boltSize": "M3",
     "MaxFreeSpeedRadPerSec": 46.5,
     "source": "https://www.aliexpress.com/item/32697306634.html",
-    "massCentroidZ": "11",
+    "massCentroidZ": 11.0,
     "massKg": 0.11,
     "height": 22.0
   },

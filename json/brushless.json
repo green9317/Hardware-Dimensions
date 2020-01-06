@@ -1,1 +1,10 @@
-{}
+{
+  "tl2955": {
+    "diameter": "44.5"
+  },
+  "meta": {
+    "actuator": "true",
+    "scriptGit": "https://github.com/madhephaestus/brushlessCadGenerator.git",
+    "scriptFile": "brushless.groovy"
+  }
+}

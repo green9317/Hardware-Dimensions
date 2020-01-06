@@ -7,12 +7,18 @@
     "bodyZ": 9.0,
     "diameterOfWingsBoltHole": 46.025,
     "centerToX_Edge": 15.34,
-    "wingsZ": 5.0,
-    "wingsY": 52.5,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
     "boltSize": "M2.5",
-    "wingsX": 9.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
     "bodyX": 43.38,
     "shaftDiameter": 8.0,
-    "bodyY": 28.6
+    "bodyY": 28.6,
+    "price": 0.01,
+    "wingsZ": 5.0,
+    "wingsY": 52.5,
+    "wingsX": 9.0,
+    "massKg": 0.001
   }
 }

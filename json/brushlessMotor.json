@@ -21,5 +21,23 @@
     "actuator": "true",
     "scriptGit": "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
     "scriptFile": "brushlessMotor.groovy"
+  },
+  "GB4315": {
+    "MaxTorqueNewtonmeters": 0.0586,
+    "rotorSpacingShort": 10.0,
+    "statorBoltSpacing": "38.5",
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "boltSize": "M2.5",
+    "source": "https://www.alibaba.com/product-detail/Wholesale-GB4315-micro-bldc-motor-pancake_62338750054.html",
+    "massCentroidZ": 11.0,
+    "diameter": "49",
+    "price": "28.7",
+    "shaftSize": "TL2955",
+    "shaftType": "brushlessMotorShaft",
+    "MaxFreeSpeedRadPerSec": 46.5,
+    "rotorSpacingLong": "25",
+    "massKg": "0.158",
+    "height": "31"
   }
 }

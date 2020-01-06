@@ -1,8 +1,8 @@
 {
   "TL2955": {
     "MaxTorqueNewtonmeters": 0.0586,
-    "rotorSpacingShort": "10.0",
-    "statorBoltSpacing": "19",
+    "rotorSpacingShort": 10.0,
+    "statorBoltSpacing": 19.0,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "boltSize": "M3",
@@ -12,7 +12,7 @@
     "shaftSize": "TL2955",
     "shaftType": "brushlessMotorShaft",
     "MaxFreeSpeedRadPerSec": 46.5,
-    "rotorSpacingLong": "12.0",
+    "rotorSpacingLong": 12.0,
     "massKg": 0.11,
     "height": 22.0
   },

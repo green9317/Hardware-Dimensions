@@ -1,1 +1,11 @@
-{}
+{
+  "TL2955": {
+    "diameter": "44.5",
+    "height": "22"
+  },
+  "meta": {
+    "actuator": "true",
+    "scriptGit": "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
+    "scriptFile": "brushlessMotor.groovy"
+  }
+}

@@ -1,1 +1,15 @@
-{}
+{
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git",
+    "scriptFile": "brushlessBoltOnShaft.groovy",
+    "shaft": "true"
+  },
+  "sunnysky_x2204": {
+    "boltLength": 5.25,
+    "colarHeight": 7.5,
+    "collarDiameter": 8.5,
+    "boltSize": "M2.5",
+    "motorTopToCenterOfBolt": 4.25,
+    "numberOfBolts": 2.0
+  }
+}

@@ -16,12 +16,31 @@
     "MaxFreeSpeedRadPerSec": 46.5,
     "rotorSpacingLong": 12.0,
     "massKg": 0.11,
-    "height": 22.0
+    "height": "13"
   },
   "meta": {
     "actuator": "true",
     "scriptGit": "https://github.com/madhephaestus/brushlessMotorCadGenerator.git",
     "scriptFile": "brushlessMotor.groovy"
+  },
+  "sunnysky_x2204": {
+    "MaxTorqueNewtonmeters": 0.0586,
+    "rotorSpacingShort": 10.0,
+    "statorBoltSpacing": 31.5,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "boltSize": "M2",
+    "source": "https://sunnyskyusa.com/collections/x-motors/products/sunnysky-x2204-brushless-motors",
+    "massCentroidZ": 11.0,
+    "diameter": 35.5,
+    "price": 38.5,
+    "statorNumberOfBolts": 4.0,
+    "shaftSize": "sunnysky_x2204",
+    "shaftType": "brushlessBoltOnShaft",
+    "MaxFreeSpeedRadPerSec": 46.5,
+    "rotorSpacingLong": 12.0,
+    "massKg": 0.11,
+    "height": 13.0
   },
   "GB4315": {
     "MaxTorqueNewtonmeters": 0.0586,
@@ -40,6 +59,6 @@
     "MaxFreeSpeedRadPerSec": 46.5,
     "rotorSpacingLong": 25.0,
     "massKg": 0.158,
-    "height": 31.0
+    "height": "13"
   }
 }

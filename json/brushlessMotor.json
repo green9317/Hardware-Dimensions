@@ -34,7 +34,7 @@
     "massCentroidZ": 11.0,
     "diameter": 49.0,
     "price": 28.7,
-    "statorNumberOfBolts": "3",
+    "statorNumberOfBolts": 3.0,
     "shaftSize": "TL2955",
     "shaftType": "brushlessMotorShaft",
     "MaxFreeSpeedRadPerSec": 46.5,

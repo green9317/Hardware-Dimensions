@@ -5,11 +5,19 @@
     "shaft": "true"
   },
   "sunnysky_x2204": {
-    "boltLength": 5.25,
     "colarHeight": 7.5,
+    "massCentroidY": 0.0,
     "collarDiameter": 8.5,
+    "massCentroidX": 0.0,
     "boltSize": "M2.5",
+    "source": "https://sunnyskyusa.com/collections/x-motors/products/sunnysky-x2204-brushless-motors",
+    "massCentroidZ": 3.75,
     "motorTopToCenterOfBolt": 4.25,
-    "numberOfBolts": 2.0
+    "numberOfBolts": 2.0,
+    "shaftDiameter": 3.0,
+    "boltLength": 5.25,
+    "price": 0.01,
+    "massKg": 0.001,
+    "shaftLength": 50.0
   }
 }

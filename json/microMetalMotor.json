@@ -1,1 +1,28 @@
-{}
+{
+  "298_to_one_3079": {
+    "MaxTorqueNewtonmeters": 0.32361945,
+    "zDimention": 26.0,
+    "massCentroidY": 0.0,
+    "yDimention": 12.0,
+    "massCentroidX": 0.0,
+    "boltSize": "M1.6",
+    "source": "https://www.pololu.com/product/3079/",
+    "massCentroidZ": -13.0,
+    "encoder": 0.0,
+    "xEncoder": 30.0,
+    "price": 18.95,
+    "xDimention": 10.0,
+    "boltDistanceFromShaft": 4.5,
+    "shaftSize": "3mm",
+    "shaftType": "dShaft",
+    "MaxFreeSpeedRadPerSec": 110.0,
+    "yEncoder": 12.0,
+    "zEncoder": 10.0,
+    "massKg": 0.0095
+  },
+  "meta": {
+    "actuator": "true",
+    "scriptGit": "https://github.com/madhephaestus/microMetalMotorCadGenerator.git",
+    "scriptFile": "microMetalMotor.groovy"
+  }
+}

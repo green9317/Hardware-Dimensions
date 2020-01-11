@@ -18,7 +18,7 @@
     "MaxFreeSpeedRadPerSec": 110.0,
     "yEncoder": 12.0,
     "zEncoder": 10.0,
-    "massKg": 0.0095
+    "massKg": 0.011
   },
   "298_to_one_3079": {
     "MaxTorqueNewtonmeters": 0.32361945,

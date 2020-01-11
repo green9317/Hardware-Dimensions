@@ -8,7 +8,7 @@
     "boltSize": "M1.6",
     "source": "https://www.pololu.com/product/3079/",
     "massCentroidZ": -13.0,
-    "encoder": "1",
+    "encoder": 1.0,
     "xEncoder": 30.0,
     "price": 18.95,
     "xDimention": 10.0,

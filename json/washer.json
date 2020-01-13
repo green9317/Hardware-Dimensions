@@ -1,1 +1,10 @@
-{}
+{
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/washerCadGenerator.git",
+    "scriptFile": "washer.groovy"
+  },
+  "M5": {
+    "od": 10.0,
+    "id": 5.3
+  }
+}

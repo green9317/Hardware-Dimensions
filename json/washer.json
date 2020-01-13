@@ -5,6 +5,7 @@
   },
   "M3": {
     "od": 10.0,
+    "thickness": 1.1,
     "price": 0.01,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
@@ -15,6 +16,7 @@
   },
   "M5": {
     "od": 10.0,
+    "thickness": "1.1",
     "price": 0.01,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,

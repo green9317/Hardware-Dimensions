@@ -3,8 +3,24 @@
     "scriptGit": "https://github.com/madhephaestus/washerCadGenerator.git",
     "scriptFile": "washer.groovy"
   },
+  "M3": {
+    "od": 10.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "id": 5.3,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
+  },
   "M5": {
     "od": 10.0,
-    "id": 5.3
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "id": 5.3,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
   }
 }

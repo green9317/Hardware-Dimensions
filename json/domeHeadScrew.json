@@ -1,1 +1,17 @@
-{}
+{
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/domeHeadScrewCadGenerator.git",
+    "scriptFile": "domeHeadScrew.groovy"
+  },
+  "Imp8": {
+    "headHeight": 2.2098,
+    "headDiameter": 7.9248,
+    "price": 0.469,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.mcmaster.com/90910a780",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
+    "boltDiameter": 4.1656
+  }
+}

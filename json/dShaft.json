@@ -1,14 +1,14 @@
 {
   "3mm": {
-    "shaftDSectionDiameter": "2.5",
+    "shaftDSectionDiameter": 2.5,
     "price": 0.01,
-    "length": "10",
+    "length": 10.0,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "source": "https://www.pololu.com/product/3079",
-    "massCentroidZ": "5",
+    "massCentroidZ": 5.0,
     "massKg": 0.001,
-    "shaftDiameter": "3"
+    "shaftDiameter": 3.0
   },
   "5mm": {
     "shaftDSectionDiameter": 4.34,

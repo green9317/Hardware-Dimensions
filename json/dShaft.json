@@ -1,0 +1,40 @@
+{
+  "3mm": {
+    "shaftDSectionDiameter": 2.5,
+    "price": 0.01,
+    "length": 10.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.pololu.com/product/3079",
+    "massCentroidZ": 5.0,
+    "massKg": 0.001,
+    "shaftDiameter": 3.0
+  },
+  "5mm": {
+    "shaftDSectionDiameter": 4.34,
+    "price": 0.01,
+    "length": 24.1,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://cdn-shop.adafruit.com/product-files/324/C140-A+datasheet.jpg",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
+    "shaftDiameter": 5.0
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/RoundMotorVitamin.git",
+    "scriptFile": "dShaft.groovy",
+    "shaft": "true"
+  },
+  "WPI-gb37y3530-50en": {
+    "shaftDSectionDiameter": 5.34,
+    "price": 0.01,
+    "length": 12.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "http://image.dfrobot.com/image/data/FIT0185/FIT0185_Dimension.PNG",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
+    "shaftDiameter": 6.0
+  }
+}

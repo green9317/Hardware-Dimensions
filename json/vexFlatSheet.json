@@ -9,6 +9,11 @@
     "holeCountLength": 10.0,
     "thickness": 1.1684
   },
+  "Steel 10x10": {
+    "holeCountWidth": 10.0,
+    "holeCountLength": 10.0,
+    "thickness": 1.1684
+  },
    "Steel 1x15": {
     "holeCountWidth": 1.0,
     "holeCountLength": 15.0,

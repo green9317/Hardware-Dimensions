@@ -1,158 +1,358 @@
 {
   "696zz": {
     "outerDiameter": 15.0,
+    "price": 0.01,
     "width": 5.0,
-    "innerDiameter": 6.0
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.amazon.com/Bearing-Shielded-Miniature-Bearings-VXB/dp/B002BBGDK2",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 6.0,
+    "massKg": 0.001
+  },
+  "673zz": {
+    "outerDiameter": "6",
+    "price": 0.01,
+    "width": "2.5",
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.amazon.com/JIUWU-3x6x2-5mm-MR63ZZ-L-630-673ZZ/dp/B00ZHSQX42",
+    "massCentroidZ": "1.75",
+    "innerDiameter": "3",
+    "massKg": 0.001
   },
   "695zz": {
     "outerDiameter": 13.0,
+    "price": 0.01,
     "width": 4.0,
-    "innerDiameter": 5.0
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 5.0,
+    "massKg": 0.001
+  },
+  "Thrust_1andAHalfinch": {
+    "outerDiameter": 55.5625,
+    "price": 0.01,
+    "width": 3.609,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.mcmaster.com/5909k41",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 38.1,
+    "massKg": 0.01
   },
   "694zz": {
     "outerDiameter": 11.0,
+    "price": 0.01,
     "width": 4.0,
-    "innerDiameter": 4.0
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 4.0,
+    "massKg": 0.001
   },
   "693zz": {
     "outerDiameter": 8.0,
+    "price": 0.01,
     "width": 4.0,
-    "innerDiameter": 3.0
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 3.0,
+    "massKg": 0.001
   },
   "699zz": {
     "outerDiameter": 20.0,
+    "price": 0.01,
     "width": 6.0,
-    "innerDiameter": 9.0
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 9.0,
+    "massKg": 0.001
   },
   "698zz": {
     "outerDiameter": 19.0,
+    "price": 0.01,
     "width": 6.0,
-    "innerDiameter": 8.0
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 8.0,
+    "massKg": 0.001
   },
   "634zz": {
     "outerDiameter": 16.0,
+    "price": 0.01,
     "width": 5.0,
-    "innerDiameter": 4.0
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 4.0,
+    "massKg": 0.001
   },
   "697zz": {
     "outerDiameter": 17.0,
+    "price": 0.01,
     "width": 5.0,
-    "innerDiameter": 7.0
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 7.0,
+    "massKg": 0.001
   },
   "635zz": {
     "outerDiameter": 19.0,
+    "price": 0.01,
     "width": 6.0,
-    "innerDiameter": 5.0
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 5.0,
+    "massKg": 0.001
   },
   "6920_2RS": {
     "outerDiameter": 140.0,
+    "price": 0.01,
     "width": 20.0,
-    "innerDiameter": 100.0
-  },
-  "685zz": {
-    "outerDiameter": 11.0,
-    "width": 5.0,
-    "innerDiameter": 5.0
-  },
-  "684zz": {
-    "outerDiameter": 9.0,
-    "width": 4.0,
-    "innerDiameter": 4.0
-  },
-  "683zz": {
-    "outerDiameter": 7.0,
-    "width": 3.0,
-    "innerDiameter": 3.0
-  },
-  "689zz": {
-    "outerDiameter": 17.0,
-    "width": 5.0,
-    "innerDiameter": 9.0
-  },
-  "688zz": {
-    "outerDiameter": 16.0,
-    "width": 5.0,
-    "innerDiameter": 8.0
-  },
-  "687zz": {
-    "outerDiameter": 14.0,
-    "width": 5.0,
-    "innerDiameter": 7.0
-  },
-  "623zz": {
-    "outerDiameter": 10.0,
-    "width": 4.0,
-    "innerDiameter": 3.0
-  },
-  "686zz": {
-    "outerDiameter": 13.0,
-    "width": 5.0,
-    "innerDiameter": 6.0
-  },
-  "624zz": {
-    "outerDiameter": 13.0,
-    "width": 5.0,
-    "innerDiameter": 4.0
-  },
-  "625zz": {
-    "outerDiameter": 16.0,
-    "width": 5.0,
-    "innerDiameter": 5.0
-  },
-  "626zz": {
-    "outerDiameter": 19.0,
-    "width": 6.0,
-    "innerDiameter": 6.0
-  },
-  "627zz": {
-    "outerDiameter": 22.0,
-    "width": 7.0,
-    "innerDiameter": 7.0
-  },
-  "608zz": {
-    "outerDiameter": 22.0,
-    "width": 7.0,
-    "innerDiameter": 8.0
-  },
-  "607zz": {
-    "outerDiameter": 19.0,
-    "width": 6.0,
-    "innerDiameter": 7.0
-  },
-  "606zz": {
-    "outerDiameter": 17.0,
-    "width": 6.0,
-    "innerDiameter": 6.0
-  },
-  "605zz": {
-    "outerDiameter": 14.0,
-    "width": 5.0,
-    "innerDiameter": 5.0
-  },
-  "604zz": {
-    "outerDiameter": 12.0,
-    "width": 4.0,
-    "innerDiameter": 4.0
-  },
-  "meta": {
-    "scriptGit": "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
-    "scriptFile": "bearing.groovy",
-    "shaft": "true"
-  },
-  "603zz": {
-    "outerDiameter": 9.0,
-    "width": 5.0,
-    "innerDiameter": 3.0
-  }
-  ,
-  "R8-2RS": {
-    "outerDiameter": 28.7,
-    "width": 8.1,
-    "innerDiameter": 12.6
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 100.0,
+    "massKg": 0.001
   },
   "R8-60355K505": {
     "outerDiameter": 28.7,
+    "price": 0.01,
     "width": 6.31,
-    "innerDiameter": 12.6
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 12.6,
+    "massKg": 0.001
+  },
+  "R8-2RS": {
+    "outerDiameter": 28.7,
+    "price": 0.01,
+    "width": 8.1,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 12.6,
+    "massKg": 0.001
+  },
+  "685zz": {
+    "outerDiameter": 11.0,
+    "price": 0.01,
+    "width": 5.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 5.0,
+    "massKg": 0.001
+  },
+  "684zz": {
+    "outerDiameter": 9.0,
+    "price": 0.01,
+    "width": 4.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 4.0,
+    "massKg": 0.001
+  },
+  "683zz": {
+    "outerDiameter": 7.0,
+    "price": 0.01,
+    "width": 3.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 3.0,
+    "massKg": 0.001
+  },
+  "689zz": {
+    "outerDiameter": 17.0,
+    "price": 0.01,
+    "width": 5.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 9.0,
+    "massKg": 0.001
+  },
+  "688zz": {
+    "outerDiameter": 16.0,
+    "price": 0.01,
+    "width": 5.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 8.0,
+    "massKg": 0.001
+  },
+  "687zz": {
+    "outerDiameter": 14.0,
+    "price": 0.01,
+    "width": 5.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 7.0,
+    "massKg": 0.001
+  },
+  "623zz": {
+    "outerDiameter": 10.0,
+    "price": 0.01,
+    "width": 4.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 3.0,
+    "massKg": 0.001
+  },
+  "686zz": {
+    "outerDiameter": 13.0,
+    "price": 0.01,
+    "width": 5.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 6.0,
+    "massKg": 0.001
+  },
+  "624zz": {
+    "outerDiameter": 13.0,
+    "price": 0.01,
+    "width": 5.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 4.0,
+    "massKg": 0.001
+  },
+  "625zz": {
+    "outerDiameter": 16.0,
+    "price": 0.01,
+    "width": 5.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 5.0,
+    "massKg": 0.001
+  },
+  "626zz": {
+    "outerDiameter": 19.0,
+    "price": 0.01,
+    "width": 6.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 6.0,
+    "massKg": 0.001
+  },
+  "627zz": {
+    "outerDiameter": 22.0,
+    "price": 0.01,
+    "width": 7.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 7.0,
+    "massKg": 0.001
+  },
+  "608zz": {
+    "outerDiameter": 22.0,
+    "price": 0.01,
+    "width": 7.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 8.0,
+    "massKg": 0.001
+  },
+  "607zz": {
+    "outerDiameter": 19.0,
+    "price": 0.01,
+    "width": 6.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 7.0,
+    "massKg": 0.001
+  },
+  "606zz": {
+    "outerDiameter": 17.0,
+    "price": 0.01,
+    "width": 6.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 6.0,
+    "massKg": 0.001
+  },
+  "605zz": {
+    "outerDiameter": 14.0,
+    "price": 0.01,
+    "width": 5.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 5.0,
+    "massKg": 0.001
+  },
+  "604zz": {
+    "outerDiameter": 12.0,
+    "price": 0.01,
+    "width": 4.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 4.0,
+    "massKg": 0.001
+  },
+  "meta": {
+    "scriptGit": "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
+    "scriptFile": "bearing.groovy"
+  },
+  "603zz": {
+    "outerDiameter": 9.0,
+    "price": 0.01,
+    "width": 5.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "innerDiameter": 3.0,
+    "massKg": 0.001
   }
 }

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/encoderCadGenerator.git",
+    "scriptFile": "encoder.groovy"
+  },
+  "AMT102_V": {
+    "bodyZ": 9.0,
+    "diameterOfWingsBoltHole": 46.025,
+    "centerToX_Edge": 15.34,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "boltSize": "M2.5",
+    "source": "https://www.mouser.com/ProductDetail/CUI-Devices/AMT102-V?qs=%2Fha2pyFaduiAsBlScvLoAQs5bGEvi8EvbZFct65N5eLWEN4rgq2qQQ%3D%3D",
+    "massCentroidZ": 0.0,
+    "bodyX": 43.38,
+    "shaftDiameter": 8.0,
+    "bodyY": 28.6,
+    "price": 0.01,
+    "wingsZ": 5.0,
+    "wingsY": 52.5,
+    "wingsX": 9.0,
+    "massKg": 0.001
+  }
+}

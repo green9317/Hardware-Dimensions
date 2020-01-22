@@ -14,7 +14,7 @@
     "source": "https://commonwealthrobotics.com",
     "massCentroidZ": 0.0,
     "massKg": 0.001,
-    "shaftLength": 24.1,
+    "length": 24.1,
     "shaftDiameter": 5.0
   }
 }

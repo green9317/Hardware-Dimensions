@@ -4,7 +4,7 @@
     "scriptFile": "dShaftWithCollar.groovy",
     "shaft": "true"
   },
-  "5mm_dShaft": {
+  "5mm": {
     "collarLength": 6.0,
     "shaftDSectionDiameter": 4.34,
     "price": 0.01,

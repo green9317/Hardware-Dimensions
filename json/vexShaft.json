@@ -1,12 +1,30 @@
 {
   "6-inch": {
-    "length": 152.399
+    "price": 0.01,
+    "length": 152.399,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
   },
   "4-inch": {
-    "length": 101.6
+    "price": 0.01,
+    "length": 101.6,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
   },
   "3-inch": {
-    "length": 76.2
+    "price": 0.01,
+    "length": 76.2,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
   },
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
@@ -14,6 +32,12 @@
     "shaft": "true"
   },
   "2-inch": {
-    "length": 50.8
+    "price": 0.01,
+    "length": 50.8,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
   }
 }

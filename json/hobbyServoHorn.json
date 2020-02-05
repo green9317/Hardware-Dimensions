@@ -1,23 +1,41 @@
 {
   "tproSG90_1": {
     "hornLength": 16.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
     "hornBaseDiameter": 6.9,
     "hornThickness": 3.8,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
     "numberOfHornArms": 1.0,
+    "massKg": 0.001,
     "hornTipDiameter": 3.9
   },
   "standard4": {
     "hornLength": 20.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
     "hornBaseDiameter": 12.6,
     "hornThickness": 4.2,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
     "numberOfHornArms": 4.0,
+    "massKg": 0.001,
     "hornTipDiameter": 4.8
   },
   "DHV56mg_sub_Micro_4": {
     "hornLength": 11.59,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
     "hornBaseDiameter": 7.26,
     "hornThickness": 3.85,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
     "numberOfHornArms": 4.0,
+    "massKg": 0.001,
     "hornTipDiameter": 3.92
   },
   "meta": {
@@ -27,37 +45,67 @@
   },
   "standardMicro1": {
     "hornLength": 16.7,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
     "hornBaseDiameter": 7.3,
     "hornThickness": 5.9,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
     "numberOfHornArms": 1.0,
+    "massKg": 0.001,
     "hornTipDiameter": 3.5
   },
   "DHV56mg_sub_Micro_1": {
     "hornLength": 17.07,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
     "hornBaseDiameter": 5.87,
     "hornThickness": 3.85,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
     "numberOfHornArms": 1.0,
+    "massKg": 0.001,
     "hornTipDiameter": 3.92
   },
   "DHV56mg_sub_Micro_2": {
     "hornLength": 17.81,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
     "hornBaseDiameter": 7.26,
     "hornThickness": 3.85,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
     "numberOfHornArms": 4.0,
+    "massKg": 0.001,
     "hornTipDiameter": 3.92
   },
   "hv6214mg_6": {
     "hornLength": 13.125,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
     "hornBaseDiameter": 8.24,
     "hornThickness": 6.6,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
     "numberOfHornArms": 6.0,
+    "massKg": 0.001,
     "hornTipDiameter": 4.3
   },
   "hv6214mg_1": {
     "hornLength": 23.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
     "hornBaseDiameter": 13.48,
     "hornThickness": 6.6,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
     "numberOfHornArms": 1.0,
+    "massKg": 0.001,
     "hornTipDiameter": 7.1
   }
 }

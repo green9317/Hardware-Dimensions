@@ -63,21 +63,21 @@
   },
   "GBM2804H_100T": {
     "MaxTorqueNewtonmeters": 0.0586,
-    "rotorSpacingShort": "16",
-    "statorBoltSpacing": "16",
+    "rotorSpacingShort": 16.0,
+    "statorBoltSpacing": 16.0,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "boltSize": "M3",
     "source": "https://www.iflight-rc.com/index.php?route=product/product&path=35&product_id=218",
-    "massCentroidZ": "7.5",
-    "diameter": "35",
-    "price": "18.99",
+    "massCentroidZ": 7.5,
+    "diameter": 35.0,
+    "price": 18.99,
     "statorNumberOfBolts": 4.0,
     "shaftSize": "TL2955",
     "shaftType": "brushlessMotorShaft",
     "MaxFreeSpeedRadPerSec": 46.5,
-    "rotorSpacingLong": "19",
-    "massKg": "0.0391",
-    "height": "15"
+    "rotorSpacingLong": 19.0,
+    "massKg": 0.0391,
+    "height": 15.0
   }
 }

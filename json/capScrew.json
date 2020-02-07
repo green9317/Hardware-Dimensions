@@ -13,20 +13,6 @@
     "headDiameter": 5.5,
     "keyDepth": 1.3
   },
-  "6#32": {
-    "outerDiameter": 3.4,
-    "headHeight": 1.8,
-    "keySize": 1.5,
-    "headDiameter":6.5,
-    "keyDepth": 1.0
-   },
-   "Inch-1_4-20": {
-    "outerDiameter": 6.3,
-    "headHeight": 3.6,
-    "keySize": 3.5,
-    "headDiameter":12.4,
-    "keyDepth": 1.0
-   },
   "M4": {
     "outerDiameter": 4.0,
     "headHeight": 4.0,
@@ -34,35 +20,12 @@
     "headDiameter": 7.0,
     "keyDepth": 2.0
   },
-   "8#32": {
-    "outerDiameter": 4.2,
-    "headHeight": 3.0,
-    "keySize": 3.0,
-    "headDiameter": 7.55,
-    "keyDepth": 2.0
-   },
   "M5": {
     "outerDiameter": 5.0,
     "headHeight": 5.0,
     "keySize": 4.0,
     "headDiameter": 8.5,
     "keyDepth": 2.5
-  },
-  "M5x25":{
-    "outerDiameter": 5.0,
-    "headHeight": 5.0,
-    "keySize": 4.0,
-    "headDiameter": 8.5,
-    "keyDepth": 2.5,
-    "boltLength":25
-  },
-  "M5x45":{
-    "outerDiameter": 5.0,
-    "headHeight": 5.0,
-    "keySize": 4.0,
-    "headDiameter": 8.5,
-    "keyDepth": 2.5,
-    "boltLength":45
   },
   "M6": {
     "outerDiameter": 6.0,
@@ -85,13 +48,6 @@
     "headDiameter": 63.0,
     "keyDepth": 24.0
   },
-  "M30": {
-    "outerDiameter": 30.0,
-    "headHeight": 30.0,
-    "keySize": 22.0,
-    "headDiameter": 45.0,
-    "keyDepth": 15.5
-  },
   "M8": {
     "outerDiameter": 8.0,
     "headHeight": 8.0,
@@ -106,19 +62,70 @@
     "headDiameter": 33.0,
     "keyDepth": 11.0
   },
-  "M10": {
-    "outerDiameter": 10.0,
-    "headHeight": 10.0,
-    "keySize": 8.0,
-    "headDiameter": 16.0,
-    "keyDepth": 5.0
-  },
   "M24": {
     "outerDiameter": 24.0,
     "headHeight": 24.0,
     "keySize": 19.0,
     "headDiameter": 36.0,
     "keyDepth": 12.0
+  },
+  "8#32": {
+    "outerDiameter": 4.2,
+    "headHeight": 3.0,
+    "keySize": 3.0,
+    "headDiameter": 7.55,
+    "keyDepth": 2.0
+  },
+  "M27": {
+    "outerDiameter": 27.0,
+    "headHeight": 27.0,
+    "keySize": 19.0,
+    "headDiameter": 40.0,
+    "keyDepth": 13.5
+  },
+  "6#32": {
+    "outerDiameter": 3.4,
+    "headHeight": 1.8,
+    "keySize": 1.5,
+    "headDiameter": 6.5,
+    "keyDepth": 1.0
+  },
+  "Inch-1_4-20": {
+    "outerDiameter": 6.3,
+    "headHeight": 3.6,
+    "keySize": 3.5,
+    "headDiameter": 12.4,
+    "keyDepth": 1.0
+  },
+  "M5x25": {
+    "outerDiameter": 5.0,
+    "headHeight": 5.0,
+    "keySize": 4.0,
+    "headDiameter": 8.5,
+    "boltLength": 25.0,
+    "keyDepth": 2.5
+  },
+  "M5x45": {
+    "outerDiameter": 5.0,
+    "headHeight": 5.0,
+    "keySize": 4.0,
+    "headDiameter": 8.5,
+    "boltLength": 45.0,
+    "keyDepth": 2.5
+  },
+  "M30": {
+    "outerDiameter": 30.0,
+    "headHeight": 30.0,
+    "keySize": 22.0,
+    "headDiameter": 45.0,
+    "keyDepth": 15.5
+  },
+  "M10": {
+    "outerDiameter": 10.0,
+    "headHeight": 10.0,
+    "keySize": 8.0,
+    "headDiameter": 16.0,
+    "keyDepth": 5.0
   },
   "M1.6": {
     "outerDiameter": 1.6,
@@ -161,13 +168,6 @@
     "keySize": 14.0,
     "headDiameter": 24.0,
     "keyDepth": 8.0
-  },
-  "M27": {
-    "outerDiameter": 27.0,
-    "headHeight": 27.0,
-    "keySize": 19.0,
-    "headDiameter": 40.0,
-    "keyDepth": 13.5
   },
   "M18": {
     "outerDiameter": 18.0,

@@ -48,6 +48,22 @@
     "headDiameter": 8.5,
     "keyDepth": 2.5
   },
+  "M5x25":{
+    "outerDiameter": 5.0,
+    "headHeight": 5.0,
+    "keySize": 4.0,
+    "headDiameter": 8.5,
+    "keyDepth": 2.5,
+    "boltLength":25
+  },
+  "M5x45":{
+    "outerDiameter": 5.0,
+    "headHeight": 5.0,
+    "keySize": 4.0,
+    "headDiameter": 8.5,
+    "keyDepth": 2.5,
+    "boltLength":45
+  },
   "M6": {
     "outerDiameter": 6.0,
     "headHeight": 6.0,

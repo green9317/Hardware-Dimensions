@@ -4,6 +4,12 @@
     "headHeight": 2.0,
     "keySize": 1.5,
     "headDiameter": 3.8,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 0.9
   },
   "M3": {
@@ -11,6 +17,12 @@
     "headHeight": 3.0,
     "keySize": 2.5,
     "headDiameter": 5.5,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 1.3
   },
   "M4": {
@@ -18,6 +30,12 @@
     "headHeight": 4.0,
     "keySize": 3.0,
     "headDiameter": 7.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 2.0
   },
   "M5": {
@@ -25,6 +43,12 @@
     "headHeight": 5.0,
     "keySize": 4.0,
     "headDiameter": 8.5,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 2.5
   },
   "M6": {
@@ -32,6 +56,12 @@
     "headHeight": 6.0,
     "keySize": 5.0,
     "headDiameter": 10.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 3.0
   },
   "M20": {
@@ -39,6 +69,12 @@
     "headHeight": 20.0,
     "keySize": 17.0,
     "headDiameter": 30.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 10.0
   },
   "M42": {
@@ -46,6 +82,12 @@
     "headHeight": 42.0,
     "keySize": 32.0,
     "headDiameter": 63.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 24.0
   },
   "M8": {
@@ -53,6 +95,12 @@
     "headHeight": 8.0,
     "keySize": 6.0,
     "headDiameter": 13.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 4.0
   },
   "M22": {
@@ -60,6 +108,12 @@
     "headHeight": 22.0,
     "keySize": 17.0,
     "headDiameter": 33.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 11.0
   },
   "M24": {
@@ -67,6 +121,12 @@
     "headHeight": 24.0,
     "keySize": 19.0,
     "headDiameter": 36.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 12.0
   },
   "8#32": {
@@ -74,6 +134,12 @@
     "headHeight": 3.0,
     "keySize": 3.0,
     "headDiameter": 7.55,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 2.0
   },
   "M27": {
@@ -81,6 +147,12 @@
     "headHeight": 27.0,
     "keySize": 19.0,
     "headDiameter": 40.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 13.5
   },
   "6#32": {
@@ -88,6 +160,12 @@
     "headHeight": 1.8,
     "keySize": 1.5,
     "headDiameter": 6.5,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 1.0
   },
   "Inch-1_4-20": {
@@ -95,6 +173,12 @@
     "headHeight": 3.6,
     "keySize": 3.5,
     "headDiameter": 12.4,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 1.0
   },
   "M5x25": {
@@ -103,6 +187,12 @@
     "keySize": 4.0,
     "headDiameter": 8.5,
     "boltLength": 25.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 2.5
   },
   "M5x45": {
@@ -111,6 +201,12 @@
     "keySize": 4.0,
     "headDiameter": 8.5,
     "boltLength": 45.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 2.5
   },
   "M30": {
@@ -118,6 +214,12 @@
     "headHeight": 30.0,
     "keySize": 22.0,
     "headDiameter": 45.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 15.5
   },
   "M10": {
@@ -125,6 +227,12 @@
     "headHeight": 10.0,
     "keySize": 8.0,
     "headDiameter": 16.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 5.0
   },
   "M1.6": {
@@ -132,6 +240,12 @@
     "headHeight": 1.6,
     "keySize": 1.5,
     "headDiameter": 3.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 0.9
   },
   "M12": {
@@ -139,6 +253,12 @@
     "headHeight": 12.0,
     "keySize": 10.0,
     "headDiameter": 18.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 6.0
   },
   "M2.5": {
@@ -146,6 +266,12 @@
     "headHeight": 2.5,
     "keySize": 2.0,
     "headDiameter": 4.5,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 1.0
   },
   "M14": {
@@ -153,6 +279,12 @@
     "headHeight": 14.0,
     "keySize": 12.0,
     "headDiameter": 21.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 7.0
   },
   "M36": {
@@ -160,6 +292,12 @@
     "headHeight": 36.0,
     "keySize": 27.0,
     "headDiameter": 54.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 19.0
   },
   "M16": {
@@ -167,6 +305,12 @@
     "headHeight": 16.0,
     "keySize": 14.0,
     "headDiameter": 24.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 8.0
   },
   "M18": {
@@ -174,6 +318,12 @@
     "headHeight": 18.0,
     "keySize": 14.0,
     "headDiameter": 27.0,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "keyDepth": 9.0
   },
   "meta": {

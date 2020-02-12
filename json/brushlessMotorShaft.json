@@ -1,4 +1,16 @@
 {
+  "TL2955": {
+    "price": 0.01,
+    "boltPatternDiameter": 10.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.aliexpress.com/item/32697306634.html",
+    "massCentroidZ": 0.0,
+    "boltPatternDiameterLong": 12.0,
+    "massKg": 0.001,
+    "shaftMountBoltSize": "M3",
+    "numberOfBolts": 4.0
+  },
   "TL2954": {
     "price": 0.01,
     "boltPatternDiameter": 10.0,

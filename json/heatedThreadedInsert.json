@@ -1,17 +1,17 @@
 {
-  "meta": {
-    "scriptGit": "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-    "scriptFile": "heatedThreadedInsert.groovy"
-  },
   "M3-pressIn": {
-    "diameter": "4",
-    "installLength": "4.8",
-    "price": "0.02",
+    "diameter": 4.0,
+    "installLength": 4.8,
+    "price": 0.02,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "source": "https://www.mcmaster.com/94510a030",
-    "massCentroidZ": "2",
+    "massCentroidZ": 2.0,
     "massKg": 0.001
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+    "scriptFile": "heatedThreadedInsert.groovy"
   },
   "M5-pressIn": {
     "diameter": 6.4,

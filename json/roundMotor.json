@@ -18,7 +18,7 @@
     "boltType": "capScrew",
     "price": 38.95,
     "shaftCenterOffset": 7.0,
-    "shaftCollarHeight": "6.0",
+    "shaftCollarHeight": 6.0,
     "shaftSize": "WPI-gb37y3530-50en",
     "boltHolePatternAngleOffset": 60.0,
     "shaftType": "dShaft",

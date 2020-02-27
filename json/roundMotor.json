@@ -12,7 +12,7 @@
     "massCentroidX": 0.0,
     "boltSize": "M3",
     "source": "http://image.dfrobot.com/image/data/FIT0185/FIT0185_Dimension.PNG",
-    "massCentroidZ": "-50",
+    "massCentroidZ": -50.0,
     "bodyLength": 75.0,
     "boltHolePatternDiameter": 31.0,
     "boltType": "capScrew",

@@ -1,4 +1,20 @@
 {
+  "5mmShaftWithCollar": {
+    "colarHeight": "6",
+    "massCentroidY": 0.0,
+    "collarDiameter": "13",
+    "massCentroidX": 0.0,
+    "boltSize": "M3",
+    "source": "https://www.mcmaster.com/57485k66",
+    "massCentroidZ": 0.0,
+    "motorTopToCenterOfBolt": "3",
+    "numberOfBolts": 1.0,
+    "shaftDiameter": "5",
+    "boltLength": 5.25,
+    "price": 0.01,
+    "massKg": 0.001,
+    "shaftLength": 20.0
+  },
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git",
     "scriptFile": "brushlessBoltOnShaft.groovy",
@@ -27,6 +43,7 @@
     "massCentroidX": 0.0,
     "boltSize": "M4",
     "source": "https://www.mcmaster.com/57485k66",
+    "massCentroidZ": 0.0,
     "motorTopToCenterOfBolt": 4.0,
     "numberOfBolts": 1.0,
     "shaftDiameter": 6.0,

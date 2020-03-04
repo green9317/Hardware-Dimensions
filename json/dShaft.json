@@ -27,7 +27,7 @@
     "shaft": "true"
   },
   "6mm": {
-    "shaftDSectionDiameter": "5.3",
+    "shaftDSectionDiameter": 5.3,
     "price": 0.01,
     "length": 12.0,
     "massCentroidY": 0.0,

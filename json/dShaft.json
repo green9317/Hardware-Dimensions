@@ -10,6 +10,17 @@
     "massKg": 0.001,
     "shaftDiameter": 3.0
   },
+  "3_16th_inch": {
+    "shaftDSectionDiameter": "4.06",
+    "price": 0.01,
+    "length": "16",
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.pololu.com/product/3079",
+    "massCentroidZ": 5.0,
+    "massKg": 0.001,
+    "shaftDiameter": "4.75"
+  },
   "5mm": {
     "shaftDSectionDiameter": 4.34,
     "price": 0.01,

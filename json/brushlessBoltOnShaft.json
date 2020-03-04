@@ -39,7 +39,7 @@
   "6mmShaftWithCollar": {
     "colarHeight": 8.0,
     "massCentroidY": 0.0,
-    "collarDiameter": 8.5,
+    "collarDiameter": "13",
     "massCentroidX": 0.0,
     "boltSize": "M4",
     "source": "https://www.mcmaster.com/57485k66",

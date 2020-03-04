@@ -21,18 +21,18 @@
     "shaftLength": 50.0
   },
   "6mmShaftWithCollar": {
-    "colarHeight": "8",
+    "colarHeight": 8.0,
     "massCentroidY": 0.0,
     "collarDiameter": 8.5,
     "massCentroidX": 0.0,
     "boltSize": "M4",
     "source": "https://www.mcmaster.com/57485k66",
-    "motorTopToCenterOfBolt": "4",
-    "numberOfBolts": "1",
-    "shaftDiameter": "6",
+    "motorTopToCenterOfBolt": 4.0,
+    "numberOfBolts": 1.0,
+    "shaftDiameter": 6.0,
     "boltLength": 5.25,
     "price": 0.01,
     "massKg": 0.001,
-    "shaftLength": "20"
+    "shaftLength": 20.0
   }
 }

@@ -23,6 +23,16 @@
     "massCentroidZ": 0.0,
     "massKg": 0.001
   },
+  "8#32": {
+    "diameter": "6.32",
+    "price": "0.25",
+    "installLength": "6.35",
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.mcmaster.com/94459a320",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
+  },
   "M5-pressIn": {
     "diameter": 6.4,
     "installLength": 9.5,

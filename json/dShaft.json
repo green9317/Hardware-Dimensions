@@ -26,6 +26,17 @@
     "scriptFile": "dShaft.groovy",
     "shaft": "true"
   },
+  "6mm": {
+    "shaftDSectionDiameter": "5.3",
+    "price": 0.01,
+    "length": 12.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "http://image.dfrobot.com/image/data/FIT0185/FIT0185_Dimension.PNG",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
+    "shaftDiameter": 6.0
+  },
   "WPI-gb37y3530-50en": {
     "shaftDSectionDiameter": 5.34,
     "price": 0.01,

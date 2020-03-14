@@ -1,0 +1,55 @@
+{
+  "5mmShaftWithCollar": {
+    "colarHeight": 6.0,
+    "massCentroidY": 0.0,
+    "collarDiameter": 13.0,
+    "massCentroidX": 0.0,
+    "boltSize": "M3",
+    "source": "https://www.mcmaster.com/57485k66",
+    "massCentroidZ": 0.0,
+    "motorTopToCenterOfBolt": 3.0,
+    "numberOfBolts": 1.0,
+    "shaftDiameter": 5.0,
+    "boltLength": 5.25,
+    "price": 0.01,
+    "massKg": 0.001,
+    "shaftLength": 20.0
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/brushlessBoltOnShaftCadGenerator.git",
+    "scriptFile": "brushlessBoltOnShaft.groovy",
+    "shaft": "true"
+  },
+  "sunnysky_x2204": {
+    "colarHeight": 7.5,
+    "massCentroidY": 0.0,
+    "collarDiameter": 8.5,
+    "massCentroidX": 0.0,
+    "boltSize": "M2.5",
+    "source": "https://sunnyskyusa.com/collections/x-motors/products/sunnysky-x2204-brushless-motors",
+    "massCentroidZ": 3.75,
+    "motorTopToCenterOfBolt": 4.25,
+    "numberOfBolts": 2.0,
+    "shaftDiameter": 3.0,
+    "boltLength": 5.25,
+    "price": 0.01,
+    "massKg": 0.001,
+    "shaftLength": 50.0
+  },
+  "6mmShaftWithCollar": {
+    "colarHeight": 8.0,
+    "massCentroidY": 0.0,
+    "collarDiameter": "13",
+    "massCentroidX": 0.0,
+    "boltSize": "M4",
+    "source": "https://www.mcmaster.com/57485k66",
+    "massCentroidZ": 0.0,
+    "motorTopToCenterOfBolt": 4.0,
+    "numberOfBolts": 1.0,
+    "shaftDiameter": 6.0,
+    "boltLength": 5.25,
+    "price": 0.01,
+    "massKg": 0.001,
+    "shaftLength": 20.0
+  }
+}

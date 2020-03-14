@@ -1,0 +1,31 @@
+{
+   "washer": {
+    "innerDiameter": 4.39,
+    "outerDiameter": 9.53,
+    "thickness": 1.02
+  },
+  "oneEighth": {
+    "innerDiameter": 4.93,
+    "outerDiameter": 12.7,
+    "thickness": 3.18
+  },
+   "oneQuater": {
+    "innerDiameter": 4.93,
+    "outerDiameter": 12.7,
+    "thickness": 6.35
+  },
+  "threeEighth": {
+    "innerDiameter": 4.93,
+    "outerDiameter": 12.7,
+    "thickness": 9.53
+  },
+  "oneHalf": {
+    "innerDiameter": 4.93,
+    "outerDiameter": 12.7,
+    "thickness": 12.7
+  },
+  "meta": {
+      "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scriptFile": "scripts/vexSpacer.groovy"
+  }
+}

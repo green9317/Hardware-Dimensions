@@ -1,0 +1,17 @@
+{
+  "2inchOD": {
+    "OD": 50.8,
+    "price": 0.23,
+    "massCentroidY": 0.0,
+    "width": 4.7625,
+    "massCentroidX": 0.0,
+    "source": "https://www.amazon.com/326-Buna-N-Ring-Durometer-Black/dp/B0013837U8",
+    "massCentroidZ": 0.0,
+    "ID": 41.275,
+    "massKg": 0.001
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/oRingCadGenerator.git",
+    "scriptFile": "oRing.groovy"
+  }
+}

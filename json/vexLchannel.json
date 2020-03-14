@@ -1,0 +1,46 @@
+{
+   "Steel 5": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 5.0,
+    "thickness": 1.1684
+  },
+   "Steel 10": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 10.0,
+    "thickness": 1.1684
+  },
+   "Steel 15": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 15.0,
+    "thickness": 1.1684
+  },
+   "Steel 35": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 35.0,
+    "thickness": 1.1684
+  },
+   "Aluminum 5": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 5.0,
+    "thickness": 1.6002
+  },
+   "Aluminum 10": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 10.0,
+    "thickness": 1.6002
+  },
+   "Aluminum 15": {
+    "holeCountWidth": 1.0,
+    "holeCountLength": 15.0,
+    "thickness": 1.6002
+  },
+   "Aluminum 35": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 35.0,
+    "thickness": 1.6002
+  },
+  "meta": {
+      "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scriptFile": "scripts/Lchannel.groovy"
+  }
+}

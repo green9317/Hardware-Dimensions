@@ -1,7 +1,7 @@
-#Hardware-Dimensions
+# Hardware-Dimensions
 Hardware dimensions usable in mechanical design.
 
-##Function
+## Function
 Dimensions are stored in  JSON files generated BowlerStudio. 
 
 

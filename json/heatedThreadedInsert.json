@@ -1,0 +1,46 @@
+{
+  "M3-pressIn": {
+    "diameter": 4.0,
+    "installLength": 4.8,
+    "price": 0.02,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.mcmaster.com/94510a030",
+    "massCentroidZ": 2.0,
+    "massKg": 0.001
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
+    "scriptFile": "heatedThreadedInsert.groovy"
+  },
+  "M5": {
+    "diameter": "7.9",
+    "price": "0.25",
+    "installLength": "6.7",
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.mcmaster.com/94180a361",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
+  },
+  "8#32": {
+    "diameter": "6.32",
+    "price": "0.25",
+    "installLength": "6.35",
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.mcmaster.com/94459a320",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
+  },
+  "M5-pressIn": {
+    "diameter": 6.4,
+    "installLength": 9.5,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
+  }
+}

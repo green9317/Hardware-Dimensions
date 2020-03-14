@@ -1,0 +1,91 @@
+{
+   "Steel 2x5": {
+    "holeCountWidth": 2.0,
+    "holeCountLength": 5.0,
+    "thickness": 1.1684
+  },
+  "Steel 2x15": {
+    "holeCountWidth": 2.0,
+    "holeCountLength": 15.0,
+    "thickness": 1.1684
+  },
+  "Steel 2x35": {
+    "holeCountWidth": 2.0,
+    "holeCountLength": 35.0,
+    "thickness": 1.1684
+  },
+  "Steel 3x5": {
+    "holeCountWidth": 3.0,
+    "holeCountLength": 5.0,
+    "thickness": 1.1684
+  },
+  "Steel 3x15": {
+    "holeCountWidth": 3.0,
+    "holeCountLength": 15.0,
+    "thickness": 1.1684
+  },
+  "Steel 3x35": {
+    "holeCountWidth": 3.0,
+    "holeCountLength": 35.0,
+    "thickness": 1.1684
+  },
+   "Steel 5x5": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 5.0,
+    "thickness": 1.1684
+  },
+  "Steel 5x15": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 15.0,
+    "thickness": 1.1684
+  },
+  "Steel 5x35": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 35.0,
+    "thickness": 1.1684
+  },
+  "Aluminum 2x15": {
+    "holeCountWidth": 2.0,
+    "holeCountLength": 15.0,
+    "thickness": 1.6002
+  },
+  "Aluminum 2x35": {
+    "holeCountWidth": 2.0,
+    "holeCountLength": 35.0,
+    "thickness": 1.6002
+  },
+  "Aluminum 3x5": {
+    "holeCountWidth": 3.0,
+    "holeCountLength": 5.0,
+    "thickness": 1.6002
+  },
+  "Aluminum 3x15": {
+    "holeCountWidth": 3.0,
+    "holeCountLength": 15.0,
+    "thickness": 1.6002
+  },
+  "Aluminum 3x35": {
+    "holeCountWidth": 3.0,
+    "holeCountLength": 35.0,
+    "thickness": 1.6002
+  },
+   "Aluminum 5x5": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 5.0,
+    "thickness": 1.6002
+  },
+  "Aluminum 5x15": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 15.0,
+    "thickness": 1.6002
+  },
+  "Aluminum 5x35": {
+    "holeCountWidth": 5.0,
+    "holeCountLength": 35.0,
+    "thickness": 1.6002
+  },
+  "meta": {
+      "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scriptFile": "scripts/Cchannel.groovy"
+  }
+}

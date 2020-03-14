@@ -14,11 +14,6 @@
     "width": 7.0,
     "height": 3.2
   },
-   "8#32": {
-    "diameter": 4.21,
-    "width": 8.6,
-    "height": 4.0
-  },
   "M5": {
     "diameter": 5.0,
     "width": 8.0,
@@ -84,19 +79,23 @@
     "width": 55.0,
     "height": 31.0
   },
+  "8#32": {
+    "diameter": 4.21,
+    "width": 8.6,
+    "height": 4.0
+  },
   "M16": {
     "diameter": 16.0,
     "width": 24.0,
     "height": 14.8
-  }, 
+  },
+  "meta": {
+    "scriptGit": "https://gist.github.com/cedee4d39342798ac7a88771dd91d7d6.git",
+    "scriptFile": "nutGen.groovy"
+  },
   "Inch-1_4-20": {
     "diameter": 6.3,
     "width": 11.06,
     "height": 5.53
-   },
-  
-  "meta": {
-    "scriptGit": "https://gist.github.com/cedee4d39342798ac7a88771dd91d7d6.git",
-    "scriptFile": "nutGen.groovy"
   }
 }

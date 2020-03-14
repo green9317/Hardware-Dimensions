@@ -1,102 +1,226 @@
 {
   "M2": {
     "diameter": 2.0,
+    "price": 0.01,
     "width": 4.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 1.6
   },
   "M3": {
     "diameter": 3.0,
+    "price": 0.01,
     "width": 5.5,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 2.4
   },
   "M4": {
     "diameter": 4.0,
+    "price": 0.01,
     "width": 7.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 3.2
-  },
-   "8#32": {
-    "diameter": 4.21,
-    "width": 8.6,
-    "height": 4.0
   },
   "M5": {
     "diameter": 5.0,
+    "price": 0.01,
     "width": 8.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 4.7
   },
   "M6": {
     "diameter": 6.0,
+    "price": 0.01,
     "width": 10.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 5.2
   },
   "M20": {
     "diameter": 20.0,
+    "price": 0.01,
     "width": 30.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 18.0
   },
   "M42": {
     "diameter": 42.0,
+    "price": 0.01,
     "width": 65.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 34.0
   },
   "M30": {
     "diameter": 30.0,
+    "price": 0.01,
     "width": 46.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 25.6
   },
   "M8": {
     "diameter": 8.0,
+    "price": 0.01,
     "width": 13.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 6.8
   },
   "M10": {
     "diameter": 10.0,
+    "price": 0.01,
     "width": 16.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 8.4
   },
   "M24": {
     "diameter": 24.0,
+    "price": 0.01,
     "width": 36.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 21.5
   },
   "M1.6": {
     "diameter": 1.6,
+    "price": 0.01,
     "width": 3.2,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 1.3
   },
   "M12": {
     "diameter": 12.0,
+    "price": 0.01,
     "width": 18.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 10.8
   },
   "M2.5": {
     "diameter": 2.5,
+    "price": 0.01,
     "width": 5.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 2.0
   },
   "M14": {
     "diameter": 14.0,
+    "price": 0.01,
     "width": 21.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 12.8
   },
   "M36": {
     "diameter": 36.0,
+    "price": 0.01,
     "width": 55.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 31.0
+  },
+  "8#32": {
+    "diameter": 4.21,
+    "price": 0.01,
+    "width": 8.6,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
+    "height": 4.0
   },
   "M16": {
     "diameter": 16.0,
+    "price": 0.01,
     "width": 24.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
     "height": 14.8
-  }, 
-  "Inch-1_4-20": {
-    "diameter": 6.3,
-    "width": 11.06,
-    "height": 5.53
-   },
-  
+  },
   "meta": {
     "scriptGit": "https://gist.github.com/cedee4d39342798ac7a88771dd91d7d6.git",
     "scriptFile": "nutGen.groovy"
+  },
+  "Inch-1_4-20": {
+    "diameter": 6.3,
+    "price": 0.01,
+    "width": 11.06,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
+    "height": 5.53
+  },
+  "4_40": {
+    "diameter": "6.35",
+    "price": "0.0279",
+    "width": 10.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.mcmaster.com/90631a005",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001,
+    "height": 5.2
   }
 }

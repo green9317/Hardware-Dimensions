@@ -1,1 +1,31 @@
-{}
+{
+  "lx_224": {
+    "MaxTorqueNewtonmeters": 2.0,
+    "topHoleCornerInset": 3.0,
+    "topHoleCircleDiameter": 14.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "shoulderDiameter": 13.0,
+    "source": "https://www.hiwonder.hk/products/hiwonder-lx-224-intelligent-serial-bus-servo",
+    "massCentroidZ": 0.0,
+    "cable_x": 8.0,
+    "caseHoleDiameter": 1.5,
+    "bottomSquareMountHoleSize": 15.0,
+    "price": 15.99,
+    "shaftSize": "5mm",
+    "shaftType": "dShaft",
+    "MaxFreeSpeedRadPerSec": 1.0,
+    "body_y": 40.0,
+    "body_z": 40.5,
+    "massKg": 0.063,
+    "body_x": 20.14,
+    "shoulderHeight": 1.5,
+    "bottomHoleDistanceFromCorner": 2.5,
+    "cable_z": 4.3
+  },
+  "meta": {
+    "actuator": "true",
+    "scriptGit": "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+    "scriptFile": "LewanSoulMotor.groovy"
+  }
+}

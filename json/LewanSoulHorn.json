@@ -1,1 +1,17 @@
-{}
+{
+  "round": {
+    "hornDiameter": 19.5,
+    "price": 0.01,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "mountPlateToHornTop": 7.2,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
+    "scriptFile": "LewanSoulHorn.groovy",
+    "shaft": "true"
+  }
+}

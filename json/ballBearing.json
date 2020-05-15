@@ -11,14 +11,14 @@
     "massKg": 0.001
   },
   "673zz": {
-    "outerDiameter": "6",
+    "outerDiameter": 6.0,
     "price": 0.01,
-    "width": "2.5",
+    "width": 2.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "source": "https://www.amazon.com/JIUWU-3x6x2-5mm-MR63ZZ-L-630-673ZZ/dp/B00ZHSQX42",
-    "massCentroidZ": "1.75",
-    "innerDiameter": "3",
+    "massCentroidZ": 1.75,
+    "innerDiameter": 3.0,
     "massKg": 0.001
   },
   "695zz": {

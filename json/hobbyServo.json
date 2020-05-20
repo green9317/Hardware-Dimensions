@@ -53,7 +53,7 @@
     "bottomOfFlangeToTopOfBody": 9.4,
     "tipOfShaftToBottomOfFlange": 13.9,
     "massCentroidY": 0.0,
-    "servoThickDimentionThickness": 22.8,
+    "servoThickDimentionThickness": "23",
     "massCentroidX": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massCentroidZ": 0.0,
@@ -65,7 +65,7 @@
     "flangeThickness": 2.0,
     "servoShaftSideHeight": 31.5,
     "massKg": 0.0138,
-    "servoThinDimentionThickness": 11.8
+    "servoThinDimentionThickness": "12.1"
   },
   "hv6214mg": {
     "MaxTorqueNewtonmeters": 1.4317709,

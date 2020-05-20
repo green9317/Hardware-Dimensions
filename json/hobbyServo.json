@@ -46,6 +46,7 @@
     "massKg": 0.0694,
     "servoThinDimentionThickness": 19.5
   },
+  "mg92b": {},
   "hv6214mg": {
     "MaxTorqueNewtonmeters": 1.4317709,
     "outputShaftDiameter": 5.9,

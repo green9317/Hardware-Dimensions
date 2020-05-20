@@ -46,7 +46,27 @@
     "massKg": 0.0694,
     "servoThinDimentionThickness": 19.5
   },
-  "mg92b": {},
+  "mg92b": {
+    "MaxTorqueNewtonmeters": 0.343,
+    "outputShaftDiameter": 4.4,
+    "shaftToShortSideDistance": 6.8,
+    "bottomOfFlangeToTopOfBody": 9.4,
+    "tipOfShaftToBottomOfFlange": 13.9,
+    "massCentroidY": 0.0,
+    "servoThickDimentionThickness": 22.8,
+    "massCentroidX": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massCentroidZ": 0.0,
+    "flangeLongDimention": 32.0,
+    "price": 9.49,
+    "shaftSize": "tproSG90_1",
+    "shaftType": "hobbyServoHorn",
+    "MaxFreeSpeedRadPerSec": 9.52,
+    "flangeThickness": 2.0,
+    "servoShaftSideHeight": 31.5,
+    "massKg": 0.0138,
+    "servoThinDimentionThickness": 11.8
+  },
   "hv6214mg": {
     "MaxTorqueNewtonmeters": 1.4317709,
     "outputShaftDiameter": 5.9,

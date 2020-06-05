@@ -1,4 +1,14 @@
 {
+  "8#32": {
+    "diameter": 6.32,
+    "price": 0.25,
+    "installLength": 6.35,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "source": "https://www.mcmaster.com/94459a320",
+    "massCentroidZ": 0.0,
+    "massKg": 0.001
+  },
   "M3-pressIn": {
     "diameter": 4.0,
     "installLength": 4.8,
@@ -14,22 +24,12 @@
     "scriptFile": "heatedThreadedInsert.groovy"
   },
   "M5": {
-    "diameter": "7.9",
-    "price": "0.25",
-    "installLength": "6.7",
+    "diameter": 7.9,
+    "price": 0.25,
+    "installLength": 6.7,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "source": "https://www.mcmaster.com/94180a361",
-    "massCentroidZ": 0.0,
-    "massKg": 0.001
-  },
-  "8#32": {
-    "diameter": "6.32",
-    "price": "0.25",
-    "installLength": "6.35",
-    "massCentroidY": 0.0,
-    "massCentroidX": 0.0,
-    "source": "https://www.mcmaster.com/94459a320",
     "massCentroidZ": 0.0,
     "massKg": 0.001
   },

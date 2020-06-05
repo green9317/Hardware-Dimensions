@@ -33,6 +33,16 @@
     "massCentroidZ": 0.0,
     "massKg": 0.001
   },
+  "M8": {
+    "diameter": "11.3",
+    "installLength": "8.51",
+    "price": "0.55",
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://www.mcmaster.com/94180a361",
+    "massKg": 0.001
+  },
   "M5-pressIn": {
     "diameter": 6.4,
     "installLength": 9.5,

@@ -6,6 +6,7 @@
   "M8": {
     "totalHeight": 12.75,
     "price": 0.05,
+    "flangeDiameter": 22.0,
     "massCentroidY": 0.0,
     "prongLength": 8.0,
     "massCentroidX": 0.0,

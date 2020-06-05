@@ -1,1 +1,18 @@
-{}
+{
+  "meta": {
+    "scriptGit": "https://github.com/madhephaestus/teeNutWithProngsCadGenerator.git",
+    "scriptFile": "teeNutWithProngs.groovy"
+  },
+  "M8": {
+    "totalHeight": 12.75,
+    "price": 0.05,
+    "massCentroidY": 0.0,
+    "prongLength": 8.0,
+    "massCentroidX": 0.0,
+    "flangeThickness": 1.75,
+    "massCentroidZ": 0.0,
+    "source": "https://www.mcmaster.com/98965A410",
+    "massKg": 0.001,
+    "barrelDiameter": 10.0
+  }
+}

@@ -13,7 +13,7 @@
     "bottomShaftLength": 4.0,
     "MaxFreeSpeedRadPerSec": 1.0,
     "body_y": 40.5,
-    "body_z": 41.0,
+    "body_z": "40.5",
     "body_x": 20.64,
     "bottomHoleDistanceFromCorner": 2.5,
     "cable_z": 4.3,

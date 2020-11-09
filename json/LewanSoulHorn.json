@@ -17,5 +17,19 @@
     "scriptGit": "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
     "scriptFile": "LewanSoulHorn.groovy",
     "shaft": "true"
+  },
+  "round_m3_bolts": {
+    "caseScrewKeepawayLength": "2.5",
+    "caseHoleDiameter": "3",
+    "hornDiameter": 21.0,
+    "price": 0.01,
+    "topHoleCircleDiameter": 14.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "mountPlateToHornTop": 6.83,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "caseScrewHeadDiameter": 4.0
   }
 }

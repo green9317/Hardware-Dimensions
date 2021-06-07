@@ -34,9 +34,9 @@
     "massKg": 0.001
   },
   "M8": {
-    "diameter": "11.3",
-    "installLength": "8.51",
-    "price": "0.55",
+    "diameter": 11.3,
+    "installLength": 8.51,
+    "price": 0.55,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "massCentroidZ": 0.0,

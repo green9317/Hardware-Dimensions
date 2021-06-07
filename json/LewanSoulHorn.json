@@ -30,6 +30,6 @@
     "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001,
-    "caseScrewHeadDiameter": "5.7"
+    "caseScrewHeadDiameter": 5.7
   }
 }

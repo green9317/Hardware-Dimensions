@@ -26,7 +26,7 @@
     "topHoleCircleDiameter": 14.0,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
-    "mountPlateToHornTop": "5.5",
+    "mountPlateToHornTop": 5.5,
     "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001,

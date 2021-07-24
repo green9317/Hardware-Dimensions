@@ -7,7 +7,7 @@
     "caseScrewKeepawayLength": 1.4,
     "caseHoleDiameter": 2.0,
     "price": 15.99,
-    "shaftSize": "roundm3_bolts",
+    "shaftSize": "round_m3_bolts",
     "bottomShaftDiameter": 6.5,
     "shaftType": "LewanSoulHorn",
     "bottomShaftLength": 4.0,

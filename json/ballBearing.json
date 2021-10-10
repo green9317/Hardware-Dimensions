@@ -33,14 +33,14 @@
     "massKg": 0.001
   },
   "Thrust_1andAHalfinch": {
-    "outerDiameter": 55.5625,
+    "outerDiameter": "56.0625",
     "price": 0.01,
     "width": 3.609,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "source": "https://www.mcmaster.com/5909k41",
     "massCentroidZ": 0.0,
-    "innerDiameter": 38.1,
+    "innerDiameter": "37.9",
     "massKg": 0.01
   },
   "694zz": {

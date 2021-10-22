@@ -35,7 +35,7 @@
   "Thrust_1andAHalfinch": {
     "outerDiameter": 56.0625,
     "price": 0.01,
-    "width": 3.609,
+    "width": "3.55",
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "source": "https://www.mcmaster.com/5909k41",

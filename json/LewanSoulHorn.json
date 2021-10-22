@@ -33,7 +33,7 @@
     "shaft": "true"
   },
   "round_m3_bolts": {
-    "caseScrewKeepawayLength": "4",
+    "caseScrewKeepawayLength": 4.0,
     "caseHoleDiameter": 3.0,
     "hornDiameter": 21.0,
     "price": 0.01,

@@ -213,8 +213,8 @@
     "height": 5.53
   },
   "4_40": {
-    "diameter": "6.35",
-    "price": "0.0279",
+    "diameter": 6.35,
+    "price": 0.0279,
     "width": 10.0,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,

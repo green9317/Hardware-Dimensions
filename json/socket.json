@@ -13,7 +13,7 @@
   },
   "3_4_in": {
     "price": 0.01,
-    "upperDiameterMM": "25.75",
+    "upperDiameterMM": 25.75,
     "lowerDiameterMM": 19.0,
     "upperHeightMM": 13.0,
     "massCentroidY": 0.0,

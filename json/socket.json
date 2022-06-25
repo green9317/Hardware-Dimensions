@@ -1,7 +1,19 @@
 {
+  "16mm": {
+    "price": 0.01,
+    "upperDiameterMM": "23.5",
+    "lowerDiameterMM": 19.0,
+    "upperHeightMM": 13.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": 9.5,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
   "15mm": {
     "price": 0.01,
-    "upperDiameterMM": "22.0",
+    "upperDiameterMM": 22.0,
     "lowerDiameterMM": 19.0,
     "upperHeightMM": 13.0,
     "massCentroidY": 0.0,

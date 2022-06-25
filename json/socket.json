@@ -1,7 +1,31 @@
 {
+  "10mm": {
+    "price": 0.01,
+    "upperDiameterMM": 15.0,
+    "lowerDiameterMM": 18.0,
+    "upperHeightMM": 10.5,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": 12.5,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
+  "17mm": {
+    "price": 0.01,
+    "upperDiameterMM": "24.0",
+    "lowerDiameterMM": 19.0,
+    "upperHeightMM": 13.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": 9.5,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
   "16mm": {
     "price": 0.01,
-    "upperDiameterMM": "23.5",
+    "upperDiameterMM": 23.5,
     "lowerDiameterMM": 19.0,
     "upperHeightMM": 13.0,
     "massCentroidY": 0.0,
@@ -102,18 +126,6 @@
   "8mm": {
     "price": 0.01,
     "upperDiameterMM": 12.75,
-    "lowerDiameterMM": 18.0,
-    "upperHeightMM": 10.5,
-    "massCentroidY": 0.0,
-    "massCentroidX": 0.0,
-    "lowerHeightMM": 12.5,
-    "massCentroidZ": 0.0,
-    "source": "https://commonwealthrobotics.com",
-    "massKg": 0.001
-  },
-  "10mm": {
-    "price": 0.01,
-    "upperDiameterMM": 15.0,
     "lowerDiameterMM": 18.0,
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,

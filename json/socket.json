@@ -2,7 +2,7 @@
   "10mm": {
     "price": 0.01,
     "upperDiameterMM": 15.0,
-    "lowerDiameterMM": 18.0,
+    "lowerDiameterMM": 19.0,
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
@@ -86,7 +86,7 @@
   "6mm": {
     "price": 0.01,
     "upperDiameterMM": 10.5,
-    "lowerDiameterMM": "19.0",
+    "lowerDiameterMM": 19.0,
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
@@ -102,7 +102,7 @@
   "12mm": {
     "price": 0.01,
     "upperDiameterMM": 18.0,
-    "lowerDiameterMM": 18.0,
+    "lowerDiameterMM": 19.0,
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
@@ -114,7 +114,7 @@
   "7mm": {
     "price": 0.01,
     "upperDiameterMM": 11.5,
-    "lowerDiameterMM": 18.0,
+    "lowerDiameterMM": 19.0,
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
@@ -126,7 +126,7 @@
   "11mm": {
     "price": 0.01,
     "upperDiameterMM": 17.0,
-    "lowerDiameterMM": 18.0,
+    "lowerDiameterMM": 19.0,
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
@@ -138,7 +138,7 @@
   "8mm": {
     "price": 0.01,
     "upperDiameterMM": 12.75,
-    "lowerDiameterMM": 18.0,
+    "lowerDiameterMM": 19.0,
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
@@ -150,7 +150,7 @@
   "9mm": {
     "price": 0.01,
     "upperDiameterMM": 14.0,
-    "lowerDiameterMM": 18.0,
+    "lowerDiameterMM": 19.0,
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,

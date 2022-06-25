@@ -150,7 +150,7 @@
   "9mm": {
     "price": 0.01,
     "upperDiameterMM": 14.0,
-    "lowerDiameterMM": "19.0",
+    "lowerDiameterMM": 19.0,
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,

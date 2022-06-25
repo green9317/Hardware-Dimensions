@@ -1,4 +1,16 @@
 {
+  "13mm": {
+    "price": 0.01,
+    "upperDiameterMM": "20.0",
+    "lowerDiameterMM": "19.0",
+    "upperHeightMM": "13.0",
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": "9.5",
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
   "6mm": {
     "price": 0.01,
     "upperDiameterMM": 10.5,
@@ -17,7 +29,7 @@
   },
   "12mm": {
     "price": 0.01,
-    "upperDiameterMM": "18.0",
+    "upperDiameterMM": 18.0,
     "lowerDiameterMM": 18.0,
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,

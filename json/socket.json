@@ -3,10 +3,10 @@
     "price": 0.01,
     "upperDiameterMM": 10.5,
     "lowerDiameterMM": 17.0,
-    "lowerHeightMM": 12.38,
     "upperHeightMM": 10.2,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
+    "lowerHeightMM": 12.38,
     "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001

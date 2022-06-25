@@ -1,7 +1,19 @@
 {
+  "3_8_in": {
+    "price": 0.01,
+    "upperDiameterMM": "14.5",
+    "lowerDiameterMM": 19.0,
+    "upperHeightMM": 11.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": 12.35,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
   "5_16_in": {
     "price": 0.01,
-    "upperDiameterMM": "12.5",
+    "upperDiameterMM": 12.5,
     "lowerDiameterMM": 19.0,
     "upperHeightMM": 11.0,
     "massCentroidY": 0.0,

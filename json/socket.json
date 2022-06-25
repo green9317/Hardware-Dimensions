@@ -29,7 +29,19 @@
   },
   "8mm": {
     "price": 0.01,
-    "upperDiameterMM": "12.75",
+    "upperDiameterMM": 12.75,
+    "lowerDiameterMM": 18.0,
+    "upperHeightMM": 10.5,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": 12.5,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
+  "9mm": {
+    "price": 0.01,
+    "upperDiameterMM": "14.0",
     "lowerDiameterMM": 18.0,
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,

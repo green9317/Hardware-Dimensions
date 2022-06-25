@@ -1,1 +1,16 @@
-{}
+{
+  "6mm": {
+    "price": 0.01,
+    "upperDiameterMM": 10.5,
+    "lowerDiameterMM": 17.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
+  "meta": {
+    "scriptGit": "https://github.com/NotOctogonapus/socketCadGenerator.git",
+    "scriptFile": "socket.groovy"
+  }
+}

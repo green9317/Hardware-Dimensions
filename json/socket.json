@@ -2,11 +2,11 @@
   "6mm": {
     "price": 0.01,
     "upperDiameterMM": 10.5,
-    "lowerDiameterMM": 17.0,
-    "upperHeightMM": 10.2,
+    "lowerDiameterMM": "18.0",
+    "upperHeightMM": "10.5",
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
-    "lowerHeightMM": 12.38,
+    "lowerHeightMM": "12.5",
     "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001
@@ -17,12 +17,12 @@
   },
   "7mm": {
     "price": 0.01,
-    "upperDiameterMM": "11.5",
-    "lowerDiameterMM": "18.0",
-    "upperHeightMM": "10.5",
+    "upperDiameterMM": 11.5,
+    "lowerDiameterMM": 18.0,
+    "upperHeightMM": 10.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
-    "lowerHeightMM": "12.5",
+    "lowerHeightMM": 12.5,
     "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001

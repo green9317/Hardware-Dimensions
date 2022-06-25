@@ -14,5 +14,17 @@
   "meta": {
     "scriptGit": "https://github.com/NotOctogonapus/socketCadGenerator.git",
     "scriptFile": "socket.groovy"
+  },
+  "7mm": {
+    "price": 0.01,
+    "upperDiameterMM": "11.5",
+    "lowerDiameterMM": "18.0",
+    "upperHeightMM": "10.5",
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": "12.5",
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
   }
 }

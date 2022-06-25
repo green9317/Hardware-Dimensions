@@ -114,7 +114,7 @@
   "7mm": {
     "price": 0.01,
     "upperDiameterMM": 11.5,
-    "lowerDiameterMM": "19.0",
+    "lowerDiameterMM": 19.0,
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
@@ -126,7 +126,7 @@
   "11mm": {
     "price": 0.01,
     "upperDiameterMM": 17.0,
-    "lowerDiameterMM": 18.0,
+    "lowerDiameterMM": "19.0",
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,

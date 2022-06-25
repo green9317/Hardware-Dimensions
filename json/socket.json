@@ -11,50 +11,14 @@
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001
   },
-  "5_16_in": {
+  "3_4_in": {
     "price": 0.01,
-    "upperDiameterMM": 12.5,
+    "upperDiameterMM": "25.75",
     "lowerDiameterMM": 19.0,
-    "upperHeightMM": 11.0,
+    "upperHeightMM": 13.0,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
-    "lowerHeightMM": 12.35,
-    "massCentroidZ": 0.0,
-    "source": "https://commonwealthrobotics.com",
-    "massKg": 0.001
-  },
-  "10mm": {
-    "price": 0.01,
-    "upperDiameterMM": 15.0,
-    "lowerDiameterMM": 19.0,
-    "upperHeightMM": 10.5,
-    "massCentroidY": 0.0,
-    "massCentroidX": 0.0,
-    "lowerHeightMM": 12.5,
-    "massCentroidZ": 0.0,
-    "source": "https://commonwealthrobotics.com",
-    "massKg": 0.001
-  },
-  "7_16_in": {
-    "price": 0.01,
-    "upperDiameterMM": 17.0,
-    "lowerDiameterMM": 19.0,
-    "upperHeightMM": 11.0,
-    "massCentroidY": 0.0,
-    "massCentroidX": 0.0,
-    "lowerHeightMM": 12.35,
-    "massCentroidZ": 0.0,
-    "source": "https://commonwealthrobotics.com",
-    "massKg": 0.001
-  },
-  "1_4_in": {
-    "price": 0.01,
-    "upperDiameterMM": 10.5,
-    "lowerDiameterMM": 19.0,
-    "upperHeightMM": 11.0,
-    "massCentroidY": 0.0,
-    "massCentroidX": 0.0,
-    "lowerHeightMM": 12.35,
+    "lowerHeightMM": 9.5,
     "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001
@@ -131,18 +95,6 @@
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001
   },
-  "11_16_in": {
-    "price": 0.01,
-    "upperDiameterMM": "24.0",
-    "lowerDiameterMM": 19.0,
-    "upperHeightMM": 13.0,
-    "massCentroidY": 0.0,
-    "massCentroidX": 0.0,
-    "lowerHeightMM": 9.5,
-    "massCentroidZ": 0.0,
-    "source": "https://commonwealthrobotics.com",
-    "massKg": 0.001
-  },
   "14mm": {
     "price": 0.01,
     "upperDiameterMM": 21.5,
@@ -190,10 +142,6 @@
     "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001
-  },
-  "meta": {
-    "scriptGit": "https://github.com/NotOctogonapus/socketCadGenerator.git",
-    "scriptFile": "socket.groovy"
   },
   "12mm": {
     "price": 0.01,
@@ -255,9 +203,21 @@
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001
   },
-  "9_32_in": {
+  "19mm": {
     "price": 0.01,
-    "upperDiameterMM": 11.75,
+    "upperDiameterMM": 26.0,
+    "lowerDiameterMM": 19.0,
+    "upperHeightMM": 13.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": 9.5,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
+  "5_16_in": {
+    "price": 0.01,
+    "upperDiameterMM": 12.5,
     "lowerDiameterMM": 19.0,
     "upperHeightMM": 11.0,
     "massCentroidY": 0.0,
@@ -267,14 +227,66 @@
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001
   },
-  "19mm": {
+  "10mm": {
     "price": 0.01,
-    "upperDiameterMM": 26.0,
+    "upperDiameterMM": 15.0,
+    "lowerDiameterMM": 19.0,
+    "upperHeightMM": 10.5,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": 12.5,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
+  "7_16_in": {
+    "price": 0.01,
+    "upperDiameterMM": 17.0,
+    "lowerDiameterMM": 19.0,
+    "upperHeightMM": 11.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": 12.35,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
+  "1_4_in": {
+    "price": 0.01,
+    "upperDiameterMM": 10.5,
+    "lowerDiameterMM": 19.0,
+    "upperHeightMM": 11.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": 12.35,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
+  "11_16_in": {
+    "price": 0.01,
+    "upperDiameterMM": 24.0,
     "lowerDiameterMM": 19.0,
     "upperHeightMM": 13.0,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "lowerHeightMM": 9.5,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
+  "meta": {
+    "scriptGit": "https://github.com/NotOctogonapus/socketCadGenerator.git",
+    "scriptFile": "socket.groovy"
+  },
+  "9_32_in": {
+    "price": 0.01,
+    "upperDiameterMM": 11.75,
+    "lowerDiameterMM": 19.0,
+    "upperHeightMM": 11.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": 12.35,
     "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001

@@ -86,7 +86,7 @@
   "6mm": {
     "price": 0.01,
     "upperDiameterMM": 10.5,
-    "lowerDiameterMM": 18.0,
+    "lowerDiameterMM": "19.0",
     "upperHeightMM": 10.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
@@ -161,7 +161,7 @@
   },
   "19mm": {
     "price": 0.01,
-    "upperDiameterMM": "26.0",
+    "upperDiameterMM": 26.0,
     "lowerDiameterMM": 19.0,
     "upperHeightMM": 13.0,
     "massCentroidY": 0.0,

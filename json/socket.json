@@ -25,12 +25,12 @@
   },
   "10mm_spline": {
     "price": 0.01,
-    "upperDiameterMM": "15.0",
-    "lowerDiameterMM": "19.5",
-    "upperHeightMM": "8.5",
+    "upperDiameterMM": 15.0,
+    "lowerDiameterMM": 19.5,
+    "upperHeightMM": 8.5,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
-    "lowerHeightMM": "24.0",
+    "lowerHeightMM": 24.0,
     "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001
@@ -91,6 +91,18 @@
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "lowerHeightMM": 9.5,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  },
+  "11mm_spline": {
+    "price": 0.01,
+    "upperDiameterMM": "17.0",
+    "lowerDiameterMM": 19.5,
+    "upperHeightMM": 8.5,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "lowerHeightMM": 24.0,
     "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001
